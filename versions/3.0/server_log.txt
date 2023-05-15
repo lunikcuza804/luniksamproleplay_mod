@@ -1,0 +1,97 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:36:38] 
+[08:36:38] Server Plugins
+[08:36:38] --------------
+[08:36:38]  Loading plugin: crashdetect.so
+[08:36:38]   CrashDetect v4.15.1 is OK.
+[08:36:38]   Loaded.
+[08:36:38]  Loading plugin: mysql_static.so
+[08:36:38]  >> plugin.mysql: R39-6 successfully loaded.
+[08:36:38]   Loaded.
+[08:36:38]  Loading plugin: pawncmd.so
+[08:36:38] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:36:38]   Loaded.
+[08:36:38]  Loading plugin: sscanf.so
+[08:36:38] 
+
+[08:36:38]  ===============================
+
+[08:36:38]       sscanf plugin loaded.     
+
+[08:36:38]          Version:  2.8.3        
+
+[08:36:38]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:36:38]  ===============================
+
+[08:36:38]   Loaded.
+[08:36:38]  Loading plugin: streamer.so
+[08:36:38] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:36:38]   Loaded.
+[08:36:38]  Loading plugin: md5.so
+[08:36:38]   MD5 v1.2 by BJIADOKC loaded
+[08:36:38]   Loaded.
+[08:36:38]  Loading plugin: TOTP.so
+[08:36:38] TOTP plugin v1.0.1 by Games loaded.
+[08:36:38]   Loaded.
+[08:36:38]  Loaded 7 plugins.
+
+[08:36:38] 
+[08:36:38] Filterscripts
+[08:36:38] ---------------
+[08:36:38]   Loading filterscript 'acs.amx'...
+[08:36:38] 
+--------------------------------------
+[08:36:38]  Loading hostgta.ru AntiBot
+[08:36:38] --------------------------------------
+
+[08:36:38]   Loaded 1 filterscripts.
+
+[08:36:38]  
+[08:36:38] --------------------------------------
+[08:36:38]  Античит Nex-AC загружен!
+[08:36:38]  Версия античита: 1.9.49
+[08:36:38]  Автор: Nexius
+[08:36:38] --------------------------------------
+
+[08:36:39] [connection] 185.189.15.24:43893 requests connection cookie.
+[08:36:39] [connection] 185.189.15.24:50272 requests connection cookie.
+[08:36:39] [connection] 185.189.15.24:36199 requests connection cookie.
+[08:36:39]  =============================================
+[08:36:39] |              - Создатель мода -             |
+[08:36:39] |          Andrey Gitlayn               |
+[08:36:39] |            - vk.com/id465147350 -           |
+[08:36:39]  =============================================
+[08:36:39] [Семейных квартир загружено: 10][Потраченое время на загрузку семейных квартир: 1]
+[08:36:39] Загружено биллбордов:      	53
+[08:36:39] Репорты загружены
+[08:36:39] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[08:36:39] Загружено домов:		911
+[08:36:39] Загружено бизнесов:		193
+[08:36:39] Загружено авто:		69
+[08:36:39] Загружено семей:		0
+[08:36:39] Загружено паркингов:		38
+[08:36:39] Создано транспорта:		461
+[08:36:39] Создано объектов:		55164
+[08:36:39] Создано гангзон:		101
+[08:36:39] Загружено каров на слет: 	69
+[08:36:39] Сервер успешно запустился!
+[08:36:39] Number of vehicle models: 89
+[08:36:40] [connection] incoming connection: 185.189.15.24:43893 id: 0
+[08:36:40] [connection] incoming connection: 185.189.15.24:50272 id: 1
+[08:36:40] [connection] incoming connection: 185.189.15.24:36199 id: 2
+[08:37:08] [connection] 91.196.55.195:65085 requests connection cookie.
+[08:37:09] [connection] incoming connection: 91.196.55.195:65085 id: 0
+[08:37:10] [join] Lunik_Samp has joined the server (0:91.196.55.195)
+[08:40:54] [part] Lunik_Samp has left the server (0:1)
