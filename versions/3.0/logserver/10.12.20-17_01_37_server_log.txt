@@ -1,0 +1,94 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:00:11] filterscripts = ""  (string)
+[18:00:11] 
+[18:00:11] Server Plugins
+[18:00:11] --------------
+[18:00:11]  Loading plugin: crashdetect.so
+[18:00:11]   CrashDetect v4.15.1 is OK.
+[18:00:11]   Loaded.
+[18:00:11]  Loading plugin: mysql_static.so.so
+[18:00:11]   Failed (plugins/mysql_static.so.so: cannot open shared object file: No such file or directory)
+[18:00:11]  Loading plugin: pawncmd.so
+[18:00:11] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:00:11]   Loaded.
+[18:00:11]  Loading plugin: sscanf.so
+[18:00:11] 
+
+[18:00:11]  ===============================
+
+[18:00:11]       sscanf plugin loaded.     
+
+[18:00:11]          Version:  2.8.3        
+
+[18:00:11]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:00:11]  ===============================
+
+[18:00:11]   Loaded.
+[18:00:11]  Loading plugin: streamer.so
+[18:00:11] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:00:11]   Loaded.
+[18:00:11]  Loading plugin: md5.so
+[18:00:11]   MD5 v1.2 by BJIADOKC loaded
+[18:00:11]   Loaded.
+[18:00:11]  Loading plugin: TOTP.so
+[18:00:11] TOTP plugin v1.0.1 by Games loaded.
+[18:00:11]   Loaded.
+[18:00:11]  Loaded 6 plugins.
+
+[18:00:11] 
+[18:00:11] Filterscripts
+[18:00:11] ---------------
+[18:00:11]   Loaded 0 filterscripts.
+
+[18:00:11] [debug] Run time error 19: "File or function is not found"
+[18:00:11] [debug]  cache_get_row_count
+[18:00:11] [debug]  cache_get_field_content_int
+[18:00:11] [debug]  cache_get_field_content
+[18:00:11] [debug]  mysql_tquery
+[18:00:11] [debug]  mysql_query
+[18:00:11] [debug]  mysql_format
+[18:00:11] [debug]  cache_get_row_int
+[18:00:11] [debug]  cache_get_row
+[18:00:11] [debug]  cache_get_row_float
+[18:00:11] [debug]  cache_delete
+[18:00:11] [debug]  mysql_close
+[18:00:11] [debug]  mysql_escape_string
+[18:00:11] [debug]  mysql_pquery
+[18:00:11] [debug]  cache_get_data
+[18:00:11] [debug]  cache_insert_id
+[18:00:11] [debug]  cache_get_field_content_float
+[18:00:11] [debug]  mysql_connect
+[18:00:11] [debug]  mysql_set_charset
+[18:00:11] [debug] Run time error 19: "File or function is not found"
+[18:00:11] [debug]  cache_get_row_count
+[18:00:11] [debug]  cache_get_field_content_int
+[18:00:11] [debug]  cache_get_field_content
+[18:00:11] [debug]  mysql_tquery
+[18:00:11] [debug]  mysql_query
+[18:00:11] [debug]  mysql_format
+[18:00:11] [debug]  cache_get_row_int
+[18:00:11] [debug]  cache_get_row
+[18:00:11] [debug]  cache_get_row_float
+[18:00:11] [debug]  cache_delete
+[18:00:11] [debug]  mysql_close
+[18:00:11] [debug]  mysql_escape_string
+[18:00:11] [debug]  mysql_pquery
+[18:00:11] [debug]  cache_get_data
+[18:00:11] [debug]  cache_insert_id
+[18:00:11] [debug]  cache_get_field_content_float
+[18:00:11] [debug]  mysql_connect
+[18:00:11] [debug]  mysql_set_charset
+[18:00:11] Script[gamemodes/arizona.amx]: Run time error 19: "File or function is not found"
+[18:00:11] Number of vehicle models: 0
