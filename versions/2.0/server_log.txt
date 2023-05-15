@@ -1,0 +1,2433 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:31:34] 
+[10:31:34] Server Plugins
+[10:31:34] --------------
+[10:31:34]  Loading plugin: mysql_static.so
+[10:31:35]  >> plugin.mysql: R39-6 successfully loaded.
+[10:31:35]   Loaded.
+[10:31:35]  Loading plugin: pawncmd.so
+[10:31:35] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[10:31:35]   Loaded.
+[10:31:35]  Loading plugin: sscanf.so
+[10:31:35] 
+
+[10:31:35]  ===============================
+
+[10:31:35]       sscanf plugin loaded.     
+
+[10:31:35]          Version:  2.8.3        
+
+[10:31:35]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:31:35]  ===============================
+
+[10:31:35]   Loaded.
+[10:31:35]  Loading plugin: streamer.so
+[10:31:35] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:31:35]   Loaded.
+[10:31:35]  Loading plugin: md5.so
+[10:31:35]   MD5 v1.2 by BJIADOKC loaded
+[10:31:35]   Loaded.
+[10:31:35]  Loading plugin: TOTP.so
+[10:31:35] TOTP plugin v1.0.1 by Games loaded.
+[10:31:35]   Loaded.
+[10:31:35]  Loaded 6 plugins.
+
+[10:31:35] 
+[10:31:35] Filterscripts
+[10:31:35] ---------------
+[10:31:35]   Loaded 0 filterscripts.
+
+[10:31:37]  
+[10:31:37] --------------------------------------
+[10:31:37]  Античит Nex-AC загружен!
+[10:31:37]  Версия античита: 1.9.49
+[10:31:37]  Автор: Nexius
+[10:31:37] --------------------------------------
+
+[10:31:41] FullDostup успешно загружен
+[10:31:41] Бонус LEVEL:      		1
+[10:31:41] Бонус MONEY:      		10000000
+[10:31:41] Бонус DONATE:      		10000
+[10:31:41] BlackMarket работает
+[10:31:41] Цена на акссесуары:      	60000000
+[10:31:41] Цена на машины:      		50000000
+[10:31:41] Цена на скины:      		40000000
+[10:31:41] Сколько заработано:      	450000000
+[10:31:41] Загружено биллбордов:      	50
+[10:31:41] Репорты не найдены.
+[10:31:41] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[10:31:44] Загружено домов:		870
+[10:31:44] Загружено бизнесов:		185
+[10:31:44] Загружено авто:		70
+[10:31:44] Загружено семей:		1
+[10:31:44] Загружено паркингов:		38
+[10:31:44] Создано транспорта:		868
+[10:31:44] Создано объектов:		48247
+[10:31:44] Создано гангзон:		101
+[10:31:44] Сервер успешно запустился!
+[10:31:44] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[10:57:54] 
+[10:57:54] Server Plugins
+[10:57:54] --------------
+[10:57:54]  Loading plugin: mysql_static.so
+[10:57:54]  >> plugin.mysql: R39-6 successfully loaded.
+[10:57:54]   Loaded.
+[10:57:54]  Loading plugin: pawncmd.so
+[10:57:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[10:57:55]   Loaded.
+[10:57:55]  Loading plugin: sscanf.so
+[10:57:55] 
+
+[10:57:55]  ===============================
+
+[10:57:55]       sscanf plugin loaded.     
+
+[10:57:55]          Version:  2.8.3        
+
+[10:57:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[10:57:55]  ===============================
+
+[10:57:55]   Loaded.
+[10:57:55]  Loading plugin: streamer.so
+[10:57:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[10:57:55]   Loaded.
+[10:57:55]  Loading plugin: md5.so
+[10:57:55]   MD5 v1.2 by BJIADOKC loaded
+[10:57:55]   Loaded.
+[10:57:55]  Loading plugin: TOTP.so
+[10:57:55] TOTP plugin v1.0.1 by Games loaded.
+[10:57:55]   Loaded.
+[10:57:55]  Loaded 6 plugins.
+
+[10:57:55] 
+[10:57:55] Filterscripts
+[10:57:55] ---------------
+[10:57:55]   Loaded 0 filterscripts.
+
+[10:57:57]  
+[10:57:57] --------------------------------------
+[10:57:57]  Античит Nex-AC загружен!
+[10:57:57]  Версия античита: 1.9.49
+[10:57:57]  Автор: Nexius
+[10:57:57] --------------------------------------
+
+[10:58:00] FullDostup успешно загружен
+[10:58:00] Бонус LEVEL:      		1
+[10:58:00] Бонус MONEY:      		10000000
+[10:58:00] Бонус DONATE:      		10000
+[10:58:00] BlackMarket работает
+[10:58:00] Цена на акссесуары:      	60000000
+[10:58:00] Цена на машины:      		50000000
+[10:58:00] Цена на скины:      		40000000
+[10:58:00] Сколько заработано:      	450000000
+[10:58:00] Загружено биллбордов:      	50
+[10:58:00] Репорты не найдены.
+[10:58:00] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[10:58:03] Загружено домов:		870
+[10:58:03] Загружено бизнесов:		185
+[10:58:03] Загружено авто:		70
+[10:58:03] Загружено семей:		1
+[10:58:03] Загружено паркингов:		38
+[10:58:03] Создано транспорта:		868
+[10:58:03] Создано объектов:		42010
+[10:58:03] Создано гангзон:		101
+[10:58:03] Сервер успешно запустился!
+[10:58:03] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[11:00:19] 
+[11:00:19] Server Plugins
+[11:00:19] --------------
+[11:00:19]  Loading plugin: mysql_static.so
+[11:00:19]  >> plugin.mysql: R39-6 successfully loaded.
+[11:00:19]   Loaded.
+[11:00:19]  Loading plugin: pawncmd.so
+[11:00:20] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[11:00:20]   Loaded.
+[11:00:20]  Loading plugin: sscanf.so
+[11:00:20] 
+
+[11:00:20]  ===============================
+
+[11:00:20]       sscanf plugin loaded.     
+
+[11:00:20]          Version:  2.8.3        
+
+[11:00:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[11:00:20]  ===============================
+
+[11:00:20]   Loaded.
+[11:00:20]  Loading plugin: streamer.so
+[11:00:20] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[11:00:20]   Loaded.
+[11:00:20]  Loading plugin: md5.so
+[11:00:20]   MD5 v1.2 by BJIADOKC loaded
+[11:00:20]   Loaded.
+[11:00:20]  Loading plugin: TOTP.so
+[11:00:20] TOTP plugin v1.0.1 by Games loaded.
+[11:00:20]   Loaded.
+[11:00:20]  Loaded 6 plugins.
+
+[11:00:20] 
+[11:00:20] Filterscripts
+[11:00:20] ---------------
+[11:00:20]   Loaded 0 filterscripts.
+
+[11:00:22]  
+[11:00:22] --------------------------------------
+[11:00:22]  Античит Nex-AC загружен!
+[11:00:22]  Версия античита: 1.9.49
+[11:00:22]  Автор: Nexius
+[11:00:22] --------------------------------------
+
+[11:00:25] FullDostup успешно загружен
+[11:00:26] Бонус LEVEL:      		1
+[11:00:26] Бонус MONEY:      		10000000
+[11:00:26] Бонус DONATE:      		10000
+[11:00:26] BlackMarket работает
+[11:00:26] Цена на акссесуары:      	60000000
+[11:00:26] Цена на машины:      		50000000
+[11:00:26] Цена на скины:      		40000000
+[11:00:26] Сколько заработано:      	450000000
+[11:00:26] Загружено биллбордов:      	50
+[11:00:26] Репорты не найдены.
+[11:00:26] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[11:00:28] Загружено домов:		870
+[11:00:28] Загружено бизнесов:		185
+[11:00:28] Загружено авто:		70
+[11:00:28] Загружено семей:		1
+[11:00:28] Загружено паркингов:		38
+[11:00:28] Создано транспорта:		868
+[11:00:28] Создано объектов:		42010
+[11:00:28] Создано гангзон:		101
+[11:00:28] Сервер успешно запустился!
+[11:00:28] Number of vehicle models: 132
+[15:15:01] [connection] 91.196.55.195:64313 requests connection cookie.
+[15:15:02] [connection] incoming connection: 91.196.55.195:64313 id: 0
+[15:15:02] [join] Lunik_Samp has joined the server (0:91.196.55.195)
+[15:16:04] [part] Lunik_Samp has left the server (0:1)
+[21:05:46] [connection] 31.43.65.219:53508 requests connection cookie.
+[21:06:11] [connection] incoming connection: 31.43.65.219:53508 id: 0
+[21:06:11] Invalid client connecting from 31.43.65.219
+[21:06:25] [connection] 31.43.65.219:61607 requests connection cookie.
+[21:06:26] [connection] incoming connection: 31.43.65.219:61607 id: 0
+[21:06:27] [join] Lunik_Samp has joined the server (0:31.43.65.219)
+[21:07:11] [part] Lunik_Samp has left the server (0:1)
+[21:09:37] [connection] 31.43.65.219:65102 requests connection cookie.
+[21:09:38] [connection] incoming connection: 31.43.65.219:65102 id: 0
+[21:09:39] [join] Lunik_Samp has joined the server (0:31.43.65.219)
+[21:29:00] [part] Lunik_Samp has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:36:25] 
+[08:36:25] Server Plugins
+[08:36:25] --------------
+[08:36:25]  Loading plugin: mysql_static.so
+[08:36:25]  >> plugin.mysql: R39-6 successfully loaded.
+[08:36:25]   Loaded.
+[08:36:25]  Loading plugin: pawncmd.so
+[08:36:25] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:36:25]   Loaded.
+[08:36:25]  Loading plugin: sscanf.so
+[08:36:25] 
+
+[08:36:25]  ===============================
+
+[08:36:25]       sscanf plugin loaded.     
+
+[08:36:25]          Version:  2.8.3        
+
+[08:36:25]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:36:25]  ===============================
+
+[08:36:25]   Loaded.
+[08:36:25]  Loading plugin: streamer.so
+[08:36:25] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:36:25]   Loaded.
+[08:36:25]  Loading plugin: md5.so
+[08:36:25]   MD5 v1.2 by BJIADOKC loaded
+[08:36:25]   Loaded.
+[08:36:25]  Loading plugin: TOTP.so
+[08:36:25] TOTP plugin v1.0.1 by Games loaded.
+[08:36:25]   Loaded.
+[08:36:25]  Loaded 6 plugins.
+
+[08:36:25] 
+[08:36:25] Filterscripts
+[08:36:25] ---------------
+[08:36:25]   Loaded 0 filterscripts.
+
+[08:36:28]  
+[08:36:28] --------------------------------------
+[08:36:28]  Античит Nex-AC загружен!
+[08:36:28]  Версия античита: 1.9.49
+[08:36:28]  Автор: Nexius
+[08:36:28] --------------------------------------
+
+[08:36:32] FullDostup успешно загружен
+[08:36:32] Бонус LEVEL:      		1
+[08:36:32] Бонус MONEY:      		10000000
+[08:36:32] Бонус DONATE:      		10000
+[08:36:32] BlackMarket работает
+[08:36:32] Цена на акссесуары:      	60000000
+[08:36:32] Цена на машины:      		50000000
+[08:36:32] Цена на скины:      		40000000
+[08:36:32] Сколько заработано:      	450000000
+[08:36:32] Загружено биллбордов:      	50
+[08:36:32] Репорты не найдены.
+[08:36:32] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[08:36:35] Загружено домов:		870
+[08:36:35] Загружено бизнесов:		185
+[08:36:35] Загружено авто:		70
+[08:36:35] Загружено семей:		1
+[08:36:35] Загружено паркингов:		38
+[08:36:35] Создано транспорта:		868
+[08:36:35] Создано объектов:		42010
+[08:36:35] Создано гангзон:		101
+[08:36:35] Сервер успешно запустился!
+[08:36:35] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:42:15] 
+[08:42:15] Server Plugins
+[08:42:15] --------------
+[08:42:15]  Loading plugin: mysql_static.so
+[08:42:15]  >> plugin.mysql: R39-6 successfully loaded.
+[08:42:15]   Loaded.
+[08:42:15]  Loading plugin: pawncmd.so
+[08:42:15] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:42:15]   Loaded.
+[08:42:15]  Loading plugin: sscanf.so
+[08:42:15] 
+
+[08:42:15]  ===============================
+
+[08:42:15]       sscanf plugin loaded.     
+
+[08:42:15]          Version:  2.8.3        
+
+[08:42:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:42:15]  ===============================
+
+[08:42:15]   Loaded.
+[08:42:15]  Loading plugin: streamer.so
+[08:42:15] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:42:15]   Loaded.
+[08:42:15]  Loading plugin: md5.so
+[08:42:15]   MD5 v1.2 by BJIADOKC loaded
+[08:42:15]   Loaded.
+[08:42:15]  Loading plugin: TOTP.so
+[08:42:15] TOTP plugin v1.0.1 by Games loaded.
+[08:42:15]   Loaded.
+[08:42:15]  Loaded 6 plugins.
+
+[08:42:15] 
+[08:42:15] Filterscripts
+[08:42:15] ---------------
+[08:42:15]   Loaded 0 filterscripts.
+
+[08:42:17]  
+[08:42:17] --------------------------------------
+[08:42:17]  Античит Nex-AC загружен!
+[08:42:17]  Версия античита: 1.9.49
+[08:42:17]  Автор: Nexius
+[08:42:17] --------------------------------------
+
+[08:42:21] FullDostup успешно загружен
+[08:42:21] Бонус LEVEL:      		1
+[08:42:21] Бонус MONEY:      		10000000
+[08:42:21] Бонус DONATE:      		10000
+[08:42:21] BlackMarket работает
+[08:42:21] Цена на акссесуары:      	60000000
+[08:42:21] Цена на машины:      		50000000
+[08:42:21] Цена на скины:      		40000000
+[08:42:21] Сколько заработано:      	450000000
+[08:42:21] Загружено биллбордов:      	50
+[08:42:21] Репорты не найдены.
+[08:42:21] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[08:42:24] Загружено домов:		870
+[08:42:24] Загружено бизнесов:		185
+[08:42:24] Загружено авто:		70
+[08:42:24] Загружено семей:		1
+[08:42:24] Загружено паркингов:		38
+[08:42:24] Создано транспорта:		868
+[08:42:24] Создано объектов:		42010
+[08:42:24] Создано гангзон:		101
+[08:42:24] Сервер успешно запустился!
+[08:42:24] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:57:39] 
+[08:57:39] Server Plugins
+[08:57:39] --------------
+[08:57:39]  Loading plugin: mysql_static.so
+[08:57:39]  >> plugin.mysql: R39-6 successfully loaded.
+[08:57:39]   Loaded.
+[08:57:39]  Loading plugin: pawncmd.so
+[08:57:39] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:57:39]   Loaded.
+[08:57:39]  Loading plugin: sscanf.so
+[08:57:39] 
+
+[08:57:39]  ===============================
+
+[08:57:39]       sscanf plugin loaded.     
+
+[08:57:39]          Version:  2.8.3        
+
+[08:57:39]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:57:39]  ===============================
+
+[08:57:39]   Loaded.
+[08:57:39]  Loading plugin: streamer.so
+[08:57:39] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:57:39]   Loaded.
+[08:57:39]  Loading plugin: md5.so
+[08:57:39]   MD5 v1.2 by BJIADOKC loaded
+[08:57:39]   Loaded.
+[08:57:39]  Loading plugin: TOTP.so
+[08:57:39] TOTP plugin v1.0.1 by Games loaded.
+[08:57:39]   Loaded.
+[08:57:39]  Loaded 6 plugins.
+
+[08:57:39] 
+[08:57:39] Filterscripts
+[08:57:39] ---------------
+[08:57:39]   Loaded 0 filterscripts.
+
+[08:57:42]  
+[08:57:42] --------------------------------------
+[08:57:42]  Античит Nex-AC загружен!
+[08:57:42]  Версия античита: 1.9.49
+[08:57:42]  Автор: Nexius
+[08:57:42] --------------------------------------
+
+[08:57:45] FullDostup успешно загружен
+[08:57:45] Бонус LEVEL:      		1
+[08:57:45] Бонус MONEY:      		10000000
+[08:57:45] Бонус DONATE:      		10000
+[08:57:45] BlackMarket работает
+[08:57:45] Цена на акссесуары:      	60000000
+[08:57:45] Цена на машины:      		50000000
+[08:57:45] Цена на скины:      		40000000
+[08:57:45] Сколько заработано:      	450000000
+[08:57:45] Загружено биллбордов:      	50
+[08:57:45] Репорты не найдены.
+[08:57:45] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[08:57:49] Загружено домов:		870
+[08:57:49] Загружено бизнесов:		185
+[08:57:49] Загружено авто:		70
+[08:57:49] Загружено семей:		1
+[08:57:49] Загружено паркингов:		38
+[08:57:49] Создано транспорта:		868
+[08:57:49] Создано объектов:		42010
+[08:57:49] Создано гангзон:		101
+[08:57:49] Сервер успешно запустился!
+[08:57:49] Number of vehicle models: 132
+[18:02:09] [connection] 31.43.65.219:56962 requests connection cookie.
+[18:02:11] [connection] incoming connection: 31.43.65.219:56962 id: 0
+[18:02:11] [join] Dan_Diey has joined the server (0:31.43.65.219)
+[18:35:13] [part] Dan_Diey has left the server (0:1)
+[19:40:50] [connection] 31.43.65.219:50958 requests connection cookie.
+[19:40:51] [connection] incoming connection: 31.43.65.219:50958 id: 0
+[19:40:54] [join] Dan_Diey has joined the server (0:31.43.65.219)
+[19:43:55] 
+[19:46:47] 
+[19:48:04] 
+[19:49:15] 
+[19:49:34] 
+[19:51:07] 
+[19:53:23] 
+[20:02:48] 
+[20:03:29] 
+[20:03:44] 
+[20:04:57] 
+[20:06:40] [part] Dan_Diey has left the server (0:1)
+[21:15:34] [connection] 31.43.65.219:54666 requests connection cookie.
+[21:15:35] [connection] incoming connection: 31.43.65.219:54666 id: 0
+[21:15:36] [join] Dan_Diey has joined the server (0:31.43.65.219)
+[21:16:27] [part] Dan_Diey has left the server (0:1)
+[21:19:30] [connection] 31.43.65.219:62404 requests connection cookie.
+[21:19:31] [connection] incoming connection: 31.43.65.219:62404 id: 0
+[21:19:31] [join] Dan_Diey has joined the server (0:31.43.65.219)
+[21:22:30] 
+[21:23:06] 
+[21:51:08] 
+[21:52:02] 
+[21:56:31] 
+[22:02:29] 
+[22:04:54] 
+[22:18:28] [part] Dan_Diey has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:51:59] 
+[08:51:59] Server Plugins
+[08:51:59] --------------
+[08:51:59]  Loading plugin: mysql_static.so
+[08:51:59]  >> plugin.mysql: R39-6 successfully loaded.
+[08:51:59]   Loaded.
+[08:51:59]  Loading plugin: pawncmd.so
+[08:51:59] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:51:59]   Loaded.
+[08:51:59]  Loading plugin: sscanf.so
+[08:51:59] 
+
+[08:51:59]  ===============================
+
+[08:51:59]       sscanf plugin loaded.     
+
+[08:51:59]          Version:  2.8.3        
+
+[08:51:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:51:59]  ===============================
+
+[08:51:59]   Loaded.
+[08:51:59]  Loading plugin: streamer.so
+[08:51:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:51:59]   Loaded.
+[08:51:59]  Loading plugin: md5.so
+[08:51:59]   MD5 v1.2 by BJIADOKC loaded
+[08:51:59]   Loaded.
+[08:51:59]  Loading plugin: TOTP.so
+[08:51:59] TOTP plugin v1.0.1 by Games loaded.
+[08:51:59]   Loaded.
+[08:51:59]  Loaded 6 plugins.
+
+[08:52:00] 
+[08:52:00] Filterscripts
+[08:52:00] ---------------
+[08:52:00]   Loaded 0 filterscripts.
+
+[08:52:02]  
+[08:52:02] --------------------------------------
+[08:52:02]  Античит Nex-AC загружен!
+[08:52:02]  Версия античита: 1.9.49
+[08:52:02]  Автор: Nexius
+[08:52:02] --------------------------------------
+
+[08:52:06] FullDostup успешно загружен
+[08:52:06] Бонус LEVEL:      		1
+[08:52:06] Бонус MONEY:      		10000000
+[08:52:06] Бонус DONATE:      		10000
+[08:52:06] BlackMarket работает
+[08:52:06] Цена на акссесуары:      	60000000
+[08:52:06] Цена на машины:      		50000000
+[08:52:06] Цена на скины:      		40000000
+[08:52:06] Сколько заработано:      	450000000
+[08:52:06] Загружено биллбордов:      	50
+[08:52:06] Репорты не найдены.
+[08:52:06] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[08:52:09] Загружено домов:		870
+[08:52:09] Загружено бизнесов:		185
+[08:52:09] Загружено авто:		70
+[08:52:09] Загружено семей:		1
+[08:52:09] Загружено паркингов:		38
+[08:52:09] Создано транспорта:		868
+[08:52:09] Создано объектов:		42010
+[08:52:09] Создано гангзон:		101
+[08:52:09] Сервер успешно запустился!
+[08:52:09] Number of vehicle models: 132
+[09:32:55] [connection] 31.43.65.219:57854 requests connection cookie.
+[09:32:56] [connection] incoming connection: 31.43.65.219:57854 id: 0
+[09:32:57] [join] Dan_Diey has joined the server (0:31.43.65.219)
+[09:34:13] 
+[09:40:03] 
+[09:41:40] 
+[09:49:21] [part] Dan_Diey has left the server (0:1)
+[09:49:41] [connection] 31.43.65.219:54682 requests connection cookie.
+[09:49:42] [connection] incoming connection: 31.43.65.219:54682 id: 0
+[09:49:43] [join] Lunik_Samp has joined the server (0:31.43.65.219)
+[09:50:44] 
+[09:50:53] 
+[09:51:17] [part] Lunik_Samp has left the server (0:1)
+[09:51:36] [connection] 31.43.65.219:49421 requests connection cookie.
+[09:51:37] [connection] incoming connection: 31.43.65.219:49421 id: 0
+[09:51:38] [join] Dan_Diey has joined the server (0:31.43.65.219)
+[09:52:25] [part] Dan_Diey has left the server (0:1)
+[09:52:39] [connection] 31.43.65.219:61394 requests connection cookie.
+[09:52:40] [connection] incoming connection: 31.43.65.219:61394 id: 0
+[09:52:40] [join] Dan_Diey has joined the server (0:31.43.65.219)
+[09:53:08] 
+[09:56:20] 
+[09:56:40] 
+[09:58:58] 
+[10:00:01] 
+[10:02:15] 
+[10:04:22] [part] Dan_Diey has left the server (0:1)
+[16:33:09] [connection] 31.43.65.219:59337 requests connection cookie.
+[16:33:10] [connection] incoming connection: 31.43.65.219:59337 id: 0
+[16:33:10] [join] Dan_Diey has joined the server (0:31.43.65.219)
+[16:38:12] 
+[16:39:44] [part] Dan_Diey has left the server (0:1)
+[21:59:31] [connection] 31.43.65.219:58207 requests connection cookie.
+[21:59:32] [connection] incoming connection: 31.43.65.219:58207 id: 0
+[21:59:33] [join] Dan_Diey has joined the server (0:31.43.65.219)
+[21:59:48] [Nex-AC debug] AC interior: -1, acInt (last): 20, newinteriorid: 0, oldinteriorid: 20
+[21:59:48] [Nex-AC] Срабатывание на 0 ID. Код причины: 002 (1)
+[21:59:48] [Nex-AC debug] AC interior: -1, acInt (last): 0, newinteriorid: 20, oldinteriorid: 0
+[21:59:48] [Nex-AC] Срабатывание на 0 ID. Код причины: 002 (1)
+[22:00:46] [Nex-AC debug] Entered veh: 93, veh: 93, entered seat: -1, seat: 0, veh model: 586, enter time: 1
+[22:00:46] [Nex-AC] Срабатывание на 0 ID. Код причины: 004 (1)
+[22:00:55] 
+[22:02:06] 
+[22:02:44] [Nex-AC debug] Dist: 146.202423, dist set: 691.699462, acSet[8]: -1, speed: 101, veh: 93
+[22:02:44] [Nex-AC] Срабатывание на 0 ID. Код причины: 003 (3)
+[22:38:54] [part] Dan_Diey has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:22:47] 
+[08:22:47] Server Plugins
+[08:22:47] --------------
+[08:22:47]  Loading plugin: mysql_static.so
+[08:22:47]  >> plugin.mysql: R39-6 successfully loaded.
+[08:22:47]   Loaded.
+[08:22:47]  Loading plugin: pawncmd.so
+[08:22:48] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:22:48]   Loaded.
+[08:22:48]  Loading plugin: sscanf.so
+[08:22:48] 
+
+[08:22:48]  ===============================
+
+[08:22:48]       sscanf plugin loaded.     
+
+[08:22:48]          Version:  2.8.3        
+
+[08:22:48]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:22:48]  ===============================
+
+[08:22:48]   Loaded.
+[08:22:48]  Loading plugin: streamer.so
+[08:22:48] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:22:48]   Loaded.
+[08:22:48]  Loading plugin: md5.so
+[08:22:48]   MD5 v1.2 by BJIADOKC loaded
+[08:22:48]   Loaded.
+[08:22:48]  Loading plugin: TOTP.so
+[08:22:48] TOTP plugin v1.0.1 by Games loaded.
+[08:22:48]   Loaded.
+[08:22:48]  Loaded 6 plugins.
+
+[08:22:48] 
+[08:22:48] Filterscripts
+[08:22:48] ---------------
+[08:22:48]   Loaded 0 filterscripts.
+
+[08:22:50]  
+[08:22:50] --------------------------------------
+[08:22:50]  Античит Nex-AC загружен!
+[08:22:50]  Версия античита: 1.9.49
+[08:22:50]  Автор: Nexius
+[08:22:50] --------------------------------------
+
+[08:22:54] FullDostup успешно загружен
+[08:22:54] Бонус LEVEL:      		1
+[08:22:54] Бонус MONEY:      		10000000
+[08:22:54] Бонус DONATE:      		10000
+[08:22:54] BlackMarket работает
+[08:22:54] Цена на акссесуары:      	60000000
+[08:22:54] Цена на машины:      		50000000
+[08:22:54] Цена на скины:      		40000000
+[08:22:54] Сколько заработано:      	450000000
+[08:22:54] Загружено биллбордов:      	50
+[08:22:54] Репорты не найдены.
+[08:22:54] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[08:22:57] Загружено домов:		870
+[08:22:57] Загружено бизнесов:		185
+[08:22:57] Загружено авто:		70
+[08:22:57] Загружено семей:		2
+[08:22:57] Загружено паркингов:		38
+[08:22:57] Создано транспорта:		868
+[08:22:57] Создано объектов:		42010
+[08:22:57] Создано гангзон:		101
+[08:22:57] Сервер успешно запустился!
+[08:22:57] Number of vehicle models: 132
+[22:58:43] [connection] 31.43.65.219:49379 requests connection cookie.
+[22:58:44] [connection] incoming connection: 31.43.65.219:49379 id: 0
+[22:58:45] [join] Lunik_Samp has joined the server (0:31.43.65.219)
+[23:21:09] [part] Lunik_Samp has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:53:31] 
+[08:53:31] Server Plugins
+[08:53:31] --------------
+[08:53:31]  Loading plugin: mysql_static.so
+[08:53:31]  >> plugin.mysql: R39-6 successfully loaded.
+[08:53:31]   Loaded.
+[08:53:31]  Loading plugin: pawncmd.so
+[08:53:31] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:53:31]   Loaded.
+[08:53:31]  Loading plugin: sscanf.so
+[08:53:31] 
+
+[08:53:31]  ===============================
+
+[08:53:31]       sscanf plugin loaded.     
+
+[08:53:31]          Version:  2.8.3        
+
+[08:53:31]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:53:31]  ===============================
+
+[08:53:31]   Loaded.
+[08:53:31]  Loading plugin: streamer.so
+[08:53:31] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:53:31]   Loaded.
+[08:53:31]  Loading plugin: md5.so
+[08:53:31]   MD5 v1.2 by BJIADOKC loaded
+[08:53:31]   Loaded.
+[08:53:31]  Loading plugin: TOTP.so
+[08:53:31] TOTP plugin v1.0.1 by Games loaded.
+[08:53:31]   Loaded.
+[08:53:31]  Loaded 6 plugins.
+
+[08:53:31] 
+[08:53:31] Filterscripts
+[08:53:31] ---------------
+[08:53:31]   Loaded 0 filterscripts.
+
+[08:53:34]  
+[08:53:34] --------------------------------------
+[08:53:34]  Античит Nex-AC загружен!
+[08:53:34]  Версия античита: 1.9.49
+[08:53:34]  Автор: Nexius
+[08:53:34] --------------------------------------
+
+[08:53:37] FullDostup успешно загружен
+[08:53:38] Бонус LEVEL:      		1
+[08:53:38] Бонус MONEY:      		10000000
+[08:53:38] Бонус DONATE:      		10000
+[08:53:38] BlackMarket работает
+[08:53:38] Цена на акссесуары:      	60000000
+[08:53:38] Цена на машины:      		50000000
+[08:53:38] Цена на скины:      		40000000
+[08:53:38] Сколько заработано:      	450000000
+[08:53:38] Загружено биллбордов:      	50
+[08:53:38] Репорты не найдены.
+[08:53:38] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[08:53:41] Загружено домов:		870
+[08:53:41] Загружено бизнесов:		185
+[08:53:41] Загружено авто:		70
+[08:53:41] Загружено семей:		2
+[08:53:41] Загружено паркингов:		38
+[08:53:41] Создано транспорта:		868
+[08:53:41] Создано объектов:		42010
+[08:53:41] Создано гангзон:		101
+[08:53:41] Сервер успешно запустился!
+[08:53:41] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:27:37] 
+[08:27:37] Server Plugins
+[08:27:37] --------------
+[08:27:37]  Loading plugin: mysql_static.so
+[08:27:37]  >> plugin.mysql: R39-6 successfully loaded.
+[08:27:37]   Loaded.
+[08:27:37]  Loading plugin: pawncmd.so
+[08:27:37] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:27:37]   Loaded.
+[08:27:37]  Loading plugin: sscanf.so
+[08:27:37] 
+
+[08:27:37]  ===============================
+
+[08:27:37]       sscanf plugin loaded.     
+
+[08:27:37]          Version:  2.8.3        
+
+[08:27:37]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:27:37]  ===============================
+
+[08:27:37]   Loaded.
+[08:27:37]  Loading plugin: streamer.so
+[08:27:37] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:27:37]   Loaded.
+[08:27:37]  Loading plugin: md5.so
+[08:27:37]   MD5 v1.2 by BJIADOKC loaded
+[08:27:37]   Loaded.
+[08:27:37]  Loading plugin: TOTP.so
+[08:27:37] TOTP plugin v1.0.1 by Games loaded.
+[08:27:37]   Loaded.
+[08:27:37]  Loaded 6 plugins.
+
+[08:27:37] 
+[08:27:37] Filterscripts
+[08:27:37] ---------------
+[08:27:37]   Loaded 0 filterscripts.
+
+[08:27:40]  
+[08:27:40] --------------------------------------
+[08:27:40]  Античит Nex-AC загружен!
+[08:27:40]  Версия античита: 1.9.49
+[08:27:40]  Автор: Nexius
+[08:27:40] --------------------------------------
+
+[08:27:43] FullDostup успешно загружен
+[08:27:43] Бонус LEVEL:      		1
+[08:27:43] Бонус MONEY:      		10000000
+[08:27:43] Бонус DONATE:      		10000
+[08:27:43] BlackMarket работает
+[08:27:43] Цена на акссесуары:      	60000000
+[08:27:43] Цена на машины:      		50000000
+[08:27:43] Цена на скины:      		40000000
+[08:27:43] Сколько заработано:      	450000000
+[08:27:43] Загружено биллбордов:      	50
+[08:27:43] Репорты не найдены.
+[08:27:43] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[08:27:46] Загружено домов:		870
+[08:27:46] Загружено бизнесов:		185
+[08:27:46] Загружено авто:		70
+[08:27:46] Загружено семей:		2
+[08:27:46] Загружено паркингов:		38
+[08:27:46] Создано транспорта:		868
+[08:27:46] Создано объектов:		42010
+[08:27:46] Создано гангзон:		101
+[08:27:46] Сервер успешно запустился!
+[08:27:46] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:11:08] 
+[09:11:08] Server Plugins
+[09:11:08] --------------
+[09:11:08]  Loading plugin: mysql_static.so
+[09:11:08]  >> plugin.mysql: R39-6 successfully loaded.
+[09:11:08]   Loaded.
+[09:11:08]  Loading plugin: pawncmd.so
+[09:11:08] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[09:11:08]   Loaded.
+[09:11:08]  Loading plugin: sscanf.so
+[09:11:08] 
+
+[09:11:08]  ===============================
+
+[09:11:08]       sscanf plugin loaded.     
+
+[09:11:08]          Version:  2.8.3        
+
+[09:11:08]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:11:08]  ===============================
+
+[09:11:08]   Loaded.
+[09:11:08]  Loading plugin: streamer.so
+[09:11:08] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:11:08]   Loaded.
+[09:11:08]  Loading plugin: md5.so
+[09:11:08]   MD5 v1.2 by BJIADOKC loaded
+[09:11:08]   Loaded.
+[09:11:08]  Loading plugin: TOTP.so
+[09:11:08] TOTP plugin v1.0.1 by Games loaded.
+[09:11:08]   Loaded.
+[09:11:08]  Loaded 6 plugins.
+
+[09:11:08] 
+[09:11:08] Filterscripts
+[09:11:08] ---------------
+[09:11:08]   Loaded 0 filterscripts.
+
+[09:11:11]  
+[09:11:11] --------------------------------------
+[09:11:11]  Античит Nex-AC загружен!
+[09:11:11]  Версия античита: 1.9.49
+[09:11:11]  Автор: Nexius
+[09:11:11] --------------------------------------
+
+[09:11:14] FullDostup успешно загружен
+[09:11:14] Бонус LEVEL:      		1
+[09:11:14] Бонус MONEY:      		10000000
+[09:11:14] Бонус DONATE:      		10000
+[09:11:14] BlackMarket работает
+[09:11:14] Цена на акссесуары:      	60000000
+[09:11:14] Цена на машины:      		50000000
+[09:11:14] Цена на скины:      		40000000
+[09:11:14] Сколько заработано:      	450000000
+[09:11:14] Загружено биллбордов:      	50
+[09:11:14] Репорты не найдены.
+[09:11:14] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[09:11:17] Загружено домов:		870
+[09:11:17] Загружено бизнесов:		185
+[09:11:17] Загружено авто:		70
+[09:11:17] Загружено семей:		2
+[09:11:17] Загружено паркингов:		38
+[09:11:17] Создано транспорта:		868
+[09:11:17] Создано объектов:		42010
+[09:11:17] Создано гангзон:		101
+[09:11:17] Сервер успешно запустился!
+[09:11:17] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:45:15] 
+[07:45:15] Server Plugins
+[07:45:15] --------------
+[07:45:15]  Loading plugin: mysql_static.so
+[07:45:16]  >> plugin.mysql: R39-6 successfully loaded.
+[07:45:16]   Loaded.
+[07:45:16]  Loading plugin: pawncmd.so
+[07:45:16] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[07:45:16]   Loaded.
+[07:45:16]  Loading plugin: sscanf.so
+[07:45:16] 
+
+[07:45:16]  ===============================
+
+[07:45:16]       sscanf plugin loaded.     
+
+[07:45:16]          Version:  2.8.3        
+
+[07:45:16]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:45:16]  ===============================
+
+[07:45:16]   Loaded.
+[07:45:16]  Loading plugin: streamer.so
+[07:45:16] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[07:45:16]   Loaded.
+[07:45:16]  Loading plugin: md5.so
+[07:45:16]   MD5 v1.2 by BJIADOKC loaded
+[07:45:16]   Loaded.
+[07:45:16]  Loading plugin: TOTP.so
+[07:45:16] TOTP plugin v1.0.1 by Games loaded.
+[07:45:16]   Loaded.
+[07:45:16]  Loaded 6 plugins.
+
+[07:45:16] 
+[07:45:16] Filterscripts
+[07:45:16] ---------------
+[07:45:16]   Loaded 0 filterscripts.
+
+[07:45:18]  
+[07:45:18] --------------------------------------
+[07:45:18]  Античит Nex-AC загружен!
+[07:45:18]  Версия античита: 1.9.49
+[07:45:18]  Автор: Nexius
+[07:45:18] --------------------------------------
+
+[07:45:21] FullDostup успешно загружен
+[07:45:21] Бонус LEVEL:      		1
+[07:45:21] Бонус MONEY:      		10000000
+[07:45:21] Бонус DONATE:      		10000
+[07:45:21] BlackMarket работает
+[07:45:21] Цена на акссесуары:      	60000000
+[07:45:21] Цена на машины:      		50000000
+[07:45:21] Цена на скины:      		40000000
+[07:45:21] Сколько заработано:      	450000000
+[07:45:21] Загружено биллбордов:      	50
+[07:45:21] Репорты не найдены.
+[07:45:21] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[07:45:24] Загружено домов:		870
+[07:45:24] Загружено бизнесов:		185
+[07:45:24] Загружено авто:		70
+[07:45:24] Загружено семей:		2
+[07:45:24] Загружено паркингов:		38
+[07:45:24] Создано транспорта:		868
+[07:45:24] Создано объектов:		42010
+[07:45:24] Создано гангзон:		101
+[07:45:24] Сервер успешно запустился!
+[07:45:24] Number of vehicle models: 132
+[19:51:20] [connection] 31.43.65.219:57959 requests connection cookie.
+[19:51:21] [connection] incoming connection: 31.43.65.219:57959 id: 0
+[19:51:22] [join] Dan_Diey has joined the server (0:31.43.65.219)
+[19:56:14] 
+[19:58:13] 
+[19:58:49] 
+[19:59:11] 
+[19:59:34] 
+[19:59:59] 
+[20:00:24] 
+[20:00:35] 
+[20:01:00] 
+[20:06:32] 
+[20:06:38] 
+[20:07:04] [Nex-AC debug] Dist: 275.112030, dist set: 3898.197265, acSet[8]: -1, speed: 93, veh: 93
+[20:07:04] [Nex-AC] Срабатывание на 0 ID. Код причины: 003 (3)
+[20:07:26] 
+[20:12:18] [part] Dan_Diey has left the server (0:1)
+[20:12:39] [connection] 31.43.65.219:61582 requests connection cookie.
+[20:12:40] [connection] incoming connection: 31.43.65.219:61582 id: 0
+[20:12:40] [join] Lunik_Samp has joined the server (0:31.43.65.219)
+[20:23:58] [connection] 194.242.103.214:35646 requests connection cookie.
+[20:23:58] [connection] incoming connection: 194.242.103.214:35646 id: 1
+[20:23:59] [join] Mike_Viller has joined the server (1:194.242.103.214)
+[20:25:18] [connection] 80.253.235.57:64555 requests connection cookie.
+[20:25:19] [connection] incoming connection: 80.253.235.57:64555 id: 2
+[20:25:20] [join] Sanek_Zaharov has joined the server (2:80.253.235.57)
+[20:25:21] [part] Lunik_Samp has left the server (0:1)
+[20:25:45] [connection] 31.43.65.219:51502 requests connection cookie.
+[20:25:46] [connection] incoming connection: 31.43.65.219:51502 id: 0
+[20:25:46] [join] Maxim_Nazarov has joined the server (0:31.43.65.219)
+[20:26:25] [part] Maxim_Nazarov has left the server (0:1)
+[20:26:26] [part] Sanek_Zaharov has left the server (2:1)
+[20:26:51] [connection] 31.43.65.219:55091 requests connection cookie.
+[20:27:06] [connection] incoming connection: 31.43.65.219:55091 id: 0
+[20:27:06] Invalid client connecting from 31.43.65.219
+[20:27:18] [connection] 31.43.65.219:57920 requests connection cookie.
+[20:27:19] [connection] incoming connection: 31.43.65.219:57920 id: 0
+[20:27:20] [join] Lunik_Samp has joined the server (0:31.43.65.219)
+[20:27:32] [Nex-AC debug] Speed: 0, dist: 24.856618, dist set: 25000.000000
+[20:27:32] [Nex-AC] Срабатывание на 0 ID. Код причины: 002 (3)
+[20:27:52] [connection] 80.253.235.57:60595 requests connection cookie.
+[20:28:12] [connection] incoming connection: 80.253.235.57:60595 id: 2
+[20:28:12] [join] Sanek_Zaharov has joined the server (2:80.253.235.57)
+[20:28:50] [connection] 77.219.15.116:56583 requests connection cookie.
+[20:28:51] [connection] incoming connection: 77.219.15.116:56583 id: 3
+[20:28:51] [join] Pon_One has joined the server (3:77.219.15.116)
+[20:30:09] [part] Pon_One has left the server (3:1)
+[20:30:26] 
+[20:31:24] [part] Lunik_Samp has left the server (0:1)
+[20:31:55] [connection] 31.43.65.219:64044 requests connection cookie.
+[20:31:56] [connection] incoming connection: 31.43.65.219:64044 id: 0
+[20:31:56] [join] Maxim_Nazarov has joined the server (0:31.43.65.219)
+[20:32:20] [part] Mike_Viller has left the server (1:0)
+[20:33:54] [part] Sanek_Zaharov has left the server (2:1)
+[20:34:35] [part] Maxim_Nazarov has left the server (0:1)
+[20:36:40] [connection] 77.219.15.116:13108 requests connection cookie.
+[20:36:41] [connection] incoming connection: 77.219.15.116:13108 id: 0
+[20:36:43] [join] Pon_One has joined the server (0:77.219.15.116)
+[20:37:31] 
+[20:37:38] [Nex-AC debug] Speed: 126, old speed: 112, anim: 1539
+[20:37:38] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:38] [Nex-AC debug] Speed: 161, old speed: 150, anim: 1539
+[20:37:38] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:38] [Nex-AC debug] Speed: 198, old speed: 186, anim: 1539
+[20:37:38] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:38] [Nex-AC debug] Speed: 237, old speed: 223, anim: 1539
+[20:37:38] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:38] [Nex-AC debug] Speed: 237, speed x, y: 235, vel z: 0.163335, pos diff z: 0.430450, old speed: 223
+[20:37:38] [Nex-AC] Срабатывание на 0 ID. Код причины: 009 (2)
+[20:37:38] [Nex-AC debug] Speed: 273, old speed: 261, anim: 1539
+[20:37:38] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:39] [Nex-AC debug] Speed: 300, speed x, y: 298, vel z: 0.191475, pos diff z: 0.383937, old speed: 289
+[20:37:39] [Nex-AC] Срабатывание на 0 ID. Код причины: 009 (2)
+[20:37:39] [Nex-AC debug] Speed: 314, old speed: 300, anim: 1539
+[20:37:39] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:39] [Nex-AC debug] Speed: 357, old speed: 347, anim: 1539
+[20:37:39] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:39] [Nex-AC debug] Speed: 361, speed x, y: 357, vel z: 0.273481, pos diff z: 0.762100, old speed: 357
+[20:37:39] [Nex-AC] Срабатывание на 0 ID. Код причины: 009 (2)
+[20:37:40] [Nex-AC debug] Dist: 102.712699, dist set: 350.595092, acSet[8]: -1, speed: 360, old pos x, y: 2135.408203, -1093.063110
+[20:37:40] [Nex-AC] Срабатывание на 0 ID. Код причины: 002 (6)
+[20:37:41] [Nex-AC debug] Dist: 109.062347, dist set: 305.244415, acSet[8]: -1, speed: 359, old pos x, y: 2040.702880, -1053.303833
+[20:37:41] [Nex-AC] Срабатывание на 0 ID. Код причины: 002 (6)
+[20:37:42] [Nex-AC debug] Dist: 104.081169, dist set: 293.418731, acSet[8]: -1, speed: 359, old pos x, y: 1933.018920, -1036.019165
+[20:37:42] [Nex-AC] Срабатывание на 0 ID. Код причины: 002 (6)
+[20:37:44] [connection] 31.43.65.219:59795 requests connection cookie.
+[20:37:44] [Nex-AC debug] Speed: 185, old speed: 174, anim: 1539
+[20:37:44] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:44] [Nex-AC debug] Speed: 215, old speed: 203, anim: 1539
+[20:37:44] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:44] [Nex-AC debug] Speed: 241, speed x, y: 241, vel z: -0.042817, pos diff z: -0.109748, old speed: 229
+[20:37:44] [Nex-AC] Срабатывание на 0 ID. Код причины: 009 (2)
+[20:37:44] [Nex-AC debug] Speed: 254, old speed: 241, anim: 1539
+[20:37:44] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:45] [Nex-AC debug] Speed: 292, old speed: 278, anim: 1539
+[20:37:45] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:45] [Nex-AC debug] Speed: 302, speed x, y: 302, vel z: 0.012340, pos diff z: 0.023620, old speed: 292
+[20:37:45] [Nex-AC] Срабатывание на 0 ID. Код причины: 009 (2)
+[20:37:45] [Nex-AC debug] Speed: 329, old speed: 317, anim: 1539
+[20:37:45] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:45] [connection] incoming connection: 31.43.65.219:59795 id: 1
+[20:37:45] [Nex-AC debug] Speed: 360, old speed: 352, anim: 1539
+[20:37:45] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:45] [Nex-AC debug] Speed: 360, speed x, y: 360, vel z: -0.016476, pos diff z: -0.041271, old speed: 352
+[20:37:45] [Nex-AC] Срабатывание на 0 ID. Код причины: 009 (2)
+[20:37:45] [join] Lunik_Samp has joined the server (1:31.43.65.219)
+[20:37:46] [Nex-AC debug] Anim: 958, old anim: 958, weaponid: 0, spec act: 0, vel x, y: 1.708488, vel z: 0.063646
+[20:37:46] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (1)
+[20:37:46] [Nex-AC debug] Anim: 958, old anim: 958, weaponid: 0, spec act: 0, vel x, y: 1.489818, vel z: 0.069541
+[20:37:46] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (1)
+[20:37:46] [Nex-AC debug] Anim: 958, old anim: 958, weaponid: 0, spec act: 0, vel x, y: 1.305376, vel z: 0.068501
+[20:37:46] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (1)
+[20:37:46] [Nex-AC debug] Dist: 104.377647, dist set: 452.400238, acSet[8]: -1, speed: 213, old pos x, y: 1631.364379, -988.834655
+[20:37:46] [Nex-AC] Срабатывание на 0 ID. Код причины: 002 (6)
+[20:37:46] [Nex-AC debug] Anim: 958, old anim: 958, weaponid: 0, spec act: 0, vel x, y: 1.135699, vel z: 0.064944
+[20:37:46] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (1)
+[20:37:46] [Nex-AC debug] Anim: 958, old anim: 958, weaponid: 0, spec act: 0, vel x, y: 0.988605, vel z: 0.058949
+[20:37:46] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (1)
+[20:37:48] [Nex-AC debug] Speed: 69, old speed: 57, anim: 1539
+[20:37:48] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:48] [Nex-AC debug] Speed: 106, old speed: 92, anim: 1539
+[20:37:48] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:48] [Nex-AC debug] Speed: 144, old speed: 129, anim: 1539
+[20:37:48] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:49] [Nex-AC debug] Speed: 179, old speed: 167, anim: 1539
+[20:37:49] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:49] [Nex-AC debug] Speed: 218, old speed: 206, anim: 1539
+[20:37:49] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:49] [Nex-AC debug] Speed: 241, speed x, y: 237, vel z: 0.237757, pos diff z: 0.501441, old speed: 230
+[20:37:49] [Nex-AC] Срабатывание на 0 ID. Код причины: 009 (2)
+[20:37:49] [Nex-AC debug] Speed: 255, old speed: 241, anim: 1539
+[20:37:49] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:49] [Nex-AC debug] Speed: 287, old speed: 276, anim: 1539
+[20:37:49] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:49] [Nex-AC debug] Speed: 294, speed x, y: 291, vel z: 0.229167, pos diff z: 0.544422, old speed: 287
+[20:37:49] [Nex-AC] Срабатывание на 0 ID. Код причины: 009 (2)
+[20:37:54] [Nex-AC debug] Speed: 342, old speed: 329, anim: 1539
+[20:37:54] [Nex-AC] Срабатывание на 0 ID. Код причины: 007 (3)
+[20:37:54] [Nex-AC debug] Speed: 355, speed x, y: 355, vel z: -0.006059, pos diff z: -0.004383, old speed: 342
+[20:37:54] [Nex-AC] Срабатывание на 0 ID. Код причины: 009 (2)
+[20:41:43] [part] Lunik_Samp has left the server (1:1)
+[20:42:52] [connection] 31.43.65.219:49413 requests connection cookie.
+[20:42:53] [connection] incoming connection: 31.43.65.219:49413 id: 1
+[20:42:54] [join] Maxim_Nazarov has joined the server (1:31.43.65.219)
+[20:44:04] [part] Maxim_Nazarov has left the server (1:1)
+[20:44:08] [part] Pon_One has left the server (0:2)
+[20:44:26] [connection] 77.219.15.116:27624 requests connection cookie.
+[20:44:40] [connection] incoming connection: 77.219.15.116:27624 id: 0
+[20:44:40] [join] Pon_One has joined the server (0:77.219.15.116)
+[20:46:00] [connection] 31.43.65.219:64172 requests connection cookie.
+[20:46:01] [connection] incoming connection: 31.43.65.219:64172 id: 1
+[20:46:02] [join] Lunik_Samp has joined the server (1:31.43.65.219)
+[20:49:50] [part] Pon_One has left the server (0:1)
+[21:03:07] [part] Lunik_Samp has left the server (1:1)
+[21:34:10] [connection] 80.253.235.57:61367 requests connection cookie.
+[21:34:11] [connection] incoming connection: 80.253.235.57:61367 id: 0
+[21:34:12] [join] Sanek_Zaharov has joined the server (0:80.253.235.57)
+[21:34:56] [part] Sanek_Zaharov has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:49:59] 
+[07:49:59] Server Plugins
+[07:49:59] --------------
+[07:49:59]  Loading plugin: mysql_static.so
+[07:49:59]  >> plugin.mysql: R39-6 successfully loaded.
+[07:49:59]   Loaded.
+[07:49:59]  Loading plugin: pawncmd.so
+[07:49:59] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[07:49:59]   Loaded.
+[07:49:59]  Loading plugin: sscanf.so
+[07:49:59] 
+
+[07:49:59]  ===============================
+
+[07:49:59]       sscanf plugin loaded.     
+
+[07:49:59]          Version:  2.8.3        
+
+[07:49:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:49:59]  ===============================
+
+[07:49:59]   Loaded.
+[07:49:59]  Loading plugin: streamer.so
+[07:49:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[07:49:59]   Loaded.
+[07:49:59]  Loading plugin: md5.so
+[07:49:59]   MD5 v1.2 by BJIADOKC loaded
+[07:49:59]   Loaded.
+[07:49:59]  Loading plugin: TOTP.so
+[07:49:59] TOTP plugin v1.0.1 by Games loaded.
+[07:49:59]   Loaded.
+[07:49:59]  Loaded 6 plugins.
+
+[07:50:00] 
+[07:50:00] Filterscripts
+[07:50:00] ---------------
+[07:50:00]   Loaded 0 filterscripts.
+
+[07:50:02]  
+[07:50:02] --------------------------------------
+[07:50:02]  Античит Nex-AC загружен!
+[07:50:02]  Версия античита: 1.9.49
+[07:50:02]  Автор: Nexius
+[07:50:02] --------------------------------------
+
+[07:50:06] FullDostup успешно загружен
+[07:50:06] Бонус LEVEL:      		1
+[07:50:06] Бонус MONEY:      		10000000
+[07:50:06] Бонус DONATE:      		10000
+[07:50:06] BlackMarket работает
+[07:50:06] Цена на акссесуары:      	60000000
+[07:50:06] Цена на машины:      		50000000
+[07:50:06] Цена на скины:      		40000000
+[07:50:06] Сколько заработано:      	450000000
+[07:50:06] Загружено биллбордов:      	50
+[07:50:06] Репорты не найдены.
+[07:50:06] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[07:50:09] Загружено домов:		870
+[07:50:09] Загружено бизнесов:		185
+[07:50:09] Загружено авто:		70
+[07:50:09] Загружено семей:		2
+[07:50:09] Загружено паркингов:		38
+[07:50:09] Создано транспорта:		868
+[07:50:09] Создано объектов:		42010
+[07:50:09] Создано гангзон:		101
+[07:50:09] Сервер успешно запустился!
+[07:50:09] Number of vehicle models: 132
+[15:03:19] [connection] 80.253.235.57:57043 requests connection cookie.
+[15:03:20] [connection] incoming connection: 80.253.235.57:57043 id: 0
+[15:03:20] [join] Sanek_Zaharov has joined the server (0:80.253.235.57)
+[15:05:16] [Nex-AC debug] Dist: 2589.465087, dist set: 25000.000000, speed: 0, pos x, y, z: 1754.348632, -1894.573120, 13.856900, old pos x, y, z: 0.000000, 10.000000, 0.000000
+[15:05:16] [Nex-AC] Срабатывание на 0 ID. Код причины: 002 (2)
+[15:05:17] [Nex-AC debug] Dist: 2589.428222, dist set: 2582.081787, acSet[8]: -1, speed: 3, old pos x, y: 0.000000, 10.000000
+[15:05:17] [Nex-AC] Срабатывание на 0 ID. Код причины: 002 (6)
+[15:05:35] [part] Sanek_Zaharov has left the server (0:2)
+[15:06:12] [connection] 80.253.235.57:56728 requests connection cookie.
+[15:06:13] [connection] incoming connection: 80.253.235.57:56728 id: 0
+[15:06:14] [join] Sanek_Zaharov has joined the server (0:80.253.235.57)
+[15:07:59] 
+[15:09:28] 
+[15:09:46] 
+[15:10:11] 
+[15:12:37] 
+[15:13:29] 
+[15:13:38] 
+[15:13:45] 
+[15:16:08] 
+[15:22:15] 
+[15:31:07] 
+[15:31:38] 
+[15:37:05] sscanf warning: Format specifier does not match parameter count.
+[15:37:09] sscanf warning: Format specifier does not match parameter count.
+[15:38:56] sscanf warning: Format specifier does not match parameter count.
+[15:44:16] [part] Sanek_Zaharov has left the server (0:1)
+[18:55:48] [connection] 31.43.65.219:57257 requests connection cookie.
+[18:55:49] [connection] incoming connection: 31.43.65.219:57257 id: 0
+[18:55:49] [join] Dan_Diey has joined the server (0:31.43.65.219)
+[18:56:21] 
+[18:56:32] 
+[18:56:46] 
+[18:57:00] 
+[18:57:17] 
+[18:58:26] 
+[19:08:28] [connection] 80.253.235.57:59026 requests connection cookie.
+[19:08:29] [connection] incoming connection: 80.253.235.57:59026 id: 1
+[19:08:29] [join] Sanek_Zaharov has joined the server (1:80.253.235.57)
+[19:13:00] sscanf warning: Format specifier does not match parameter count.
+[19:25:49] sscanf warning: Format specifier does not match parameter count.
+[19:29:58] 
+[19:45:39] 
+[19:45:52] 
+[19:46:06] 
+[19:53:22] sscanf warning: Format specifier does not match parameter count.
+[19:53:41] sscanf warning: Format specifier does not match parameter count.
+[19:53:46] sscanf warning: Format specifier does not match parameter count.
+[19:54:02] sscanf warning: Format specifier does not match parameter count.
+[19:54:13] sscanf warning: Format specifier does not match parameter count.
+[19:54:31] 
+[20:05:37] [part] Sanek_Zaharov has left the server (1:1)
+[20:06:44] [connection] 80.253.235.57:59159 requests connection cookie.
+[20:06:48] [connection] incoming connection: 80.253.235.57:59159 id: 1
+[20:06:48] [join] Sanek_Zaharov has joined the server (1:80.253.235.57)
+[20:12:53] 
+[20:12:58] 
+[20:19:46] 
+[20:20:05] 
+[20:20:28] [Nex-AC debug] Pickupid: 626, dist: 2329.539306, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:20:28] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:20:29] *** Streamer Plugin: Streamer_GetIntData: Invalid ID specified.
+[20:20:40] [Nex-AC debug] Pickupid: 624, dist: 2367.585205, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:20:40] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:20:53] [Nex-AC debug] Pickupid: 633, dist: 2351.489746, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:20:53] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:20:59] [Nex-AC debug] Pickupid: 636, dist: 2333.671142, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:20:59] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:21:07] [Nex-AC debug] Pickupid: 634, dist: 2322.905273, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:21:07] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:21:26] [Nex-AC debug] Pickupid: 633, dist: 2329.249755, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:21:26] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:21:26] [Nex-AC debug] Pickupid: 633, dist: 2331.220947, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:21:26] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:21:36] [Nex-AC debug] Pickupid: 637, dist: 2309.720947, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:21:36] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:21:49] [Nex-AC debug] Pickupid: 640, dist: 2349.294677, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:21:49] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:22:02] [Nex-AC debug] Pickupid: 625, dist: 2278.659667, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:22:02] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:22:08] [Nex-AC debug] Pickupid: 633, dist: 2270.346191, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:22:08] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:22:16] [Nex-AC debug] Pickupid: 627, dist: 2298.356689, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:22:16] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:22:23] [Nex-AC debug] Pickupid: 637, dist: 2307.296386, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:22:23] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:22:31] [Nex-AC debug] Pickupid: 640, dist: 2331.323730, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:22:31] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:22:36] [Nex-AC debug] Pickupid: 638, dist: 2332.637695, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:22:36] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:22:44] [Nex-AC debug] Pickupid: 633, dist: 2309.299560, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:22:44] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:22:50] [Nex-AC debug] Pickupid: 625, dist: 2298.696044, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:22:50] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:22:58] [Nex-AC debug] Pickupid: 624, dist: 2278.628662, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:22:58] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:23:07] [Nex-AC debug] Pickupid: 629, dist: 2269.329589, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:23:07] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:23:13] [Nex-AC debug] Pickupid: 630, dist: 2286.332763, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:23:13] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:23:20] [Nex-AC debug] Pickupid: 631, dist: 2320.529052, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:23:20] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:23:30] [Nex-AC debug] Pickupid: 636, dist: 2348.459472, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:23:30] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:23:41] [Nex-AC debug] Pickupid: 632, dist: 2393.527832, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:23:41] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:24:11] [Nex-AC debug] Pickupid: 627, dist: 2269.554931, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:24:11] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:24:25] [Nex-AC debug] Pickupid: 638, dist: 2331.190185, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:24:25] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:24:34] [Nex-AC debug] Pickupid: 635, dist: 2348.853027, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:24:34] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:24:44] [Nex-AC debug] Pickupid: 632, dist: 2320.798095, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:24:44] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:24:52] [Nex-AC debug] Pickupid: 625, dist: 2288.600097, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:24:52] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:24:58] [Nex-AC debug] Pickupid: 624, dist: 2271.716796, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:24:58] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:25:06] [Nex-AC debug] Pickupid: 619, dist: 2277.258544, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:25:06] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:25:15] [Nex-AC debug] Pickupid: 627, dist: 2269.540283, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:25:15] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:25:25] [Nex-AC debug] Pickupid: 623, dist: 2298.054931, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:25:25] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:25:33] [Nex-AC debug] Pickupid: 634, dist: 2308.077880, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:25:33] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:25:41] [Nex-AC debug] Pickupid: 635, dist: 2329.665039, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:25:41] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:25:50] [Nex-AC debug] Pickupid: 637, dist: 2359.805175, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:25:50] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:25:57] [Nex-AC debug] Pickupid: 626, dist: 2367.058349, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:25:57] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:26:09] [Nex-AC debug] Pickupid: 624, dist: 2352.048339, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:26:09] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:26:15] [Nex-AC debug] Pickupid: 622, dist: 2334.411132, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:26:15] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:26:23] [Nex-AC debug] Pickupid: 625, dist: 2302.053955, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:26:23] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:26:32] 
+[20:26:32] 
+[20:26:35] [Nex-AC debug] Pickupid: 640, dist: 2321.226562, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:26:35] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:26:51] [Nex-AC debug] Pickupid: 639, dist: 2359.439208, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:26:51] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:26:56] [Nex-AC debug] Pickupid: 634, dist: 2368.193603, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:26:56] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:27:08] [Nex-AC debug] Pickupid: 637, dist: 2331.763916, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:27:08] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:27:18] [Nex-AC debug] Pickupid: 635, dist: 2308.765625, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:27:18] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:27:28] [Nex-AC debug] Pickupid: 626, dist: 2298.808837, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:27:28] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:27:39] [Nex-AC debug] Pickupid: 619, dist: 2278.534667, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:27:39] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:27:43] 
+[20:27:45] [Nex-AC debug] Pickupid: 627, dist: 2270.510498, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:27:45] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:27:55] [Nex-AC debug] Pickupid: 639, dist: 2309.157470, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:27:55] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:28:03] [Nex-AC debug] Pickupid: 638, dist: 2331.243408, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:28:03] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:28:13] [Nex-AC debug] Pickupid: 620, dist: 2349.018066, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:28:13] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:28:18] 
+[20:28:32] [Nex-AC debug] Pickupid: 627, dist: 2298.094726, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:28:32] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:28:40] [Nex-AC debug] Pickupid: 619, dist: 2278.902099, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:28:40] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:28:48] [Nex-AC debug] Pickupid: 632, dist: 2270.273681, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:28:48] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:28:50] [Nex-AC debug] Pickupid: 640, dist: 2269.881103, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:28:50] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:28:58] [Nex-AC debug] Pickupid: 627, dist: 2276.886962, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:28:58] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:29:06] [Nex-AC debug] Pickupid: 621, dist: 2286.475097, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:29:06] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:29:12] [Nex-AC debug] Pickupid: 622, dist: 2271.433349, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:29:12] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:29:22] [part] Sanek_Zaharov has left the server (1:1)
+[20:29:29] [Nex-AC debug] Pickupid: 638, dist: 2307.465332, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:29:29] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:29:36] [Nex-AC debug] Pickupid: 636, dist: 2308.381103, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:29:36] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:29:48] [Nex-AC debug] Pickupid: 635, dist: 2329.198486, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:29:48] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:29:59] [Nex-AC debug] Pickupid: 637, dist: 2360.199218, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:29:59] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:30:04] [Nex-AC debug] Pickupid: 634, dist: 2368.450683, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:30:04] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:30:22] [Nex-AC debug] Pickupid: 635, dist: 2309.004638, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:30:22] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:30:29] [Nex-AC debug] Pickupid: 632, dist: 2298.890625, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:30:29] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:30:38] [Nex-AC debug] Pickupid: 622, dist: 2278.750732, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:30:38] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:30:50] [Nex-AC debug] Pickupid: 627, dist: 2286.433349, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:30:50] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:30:55] [Nex-AC debug] Pickupid: 626, dist: 2271.574218, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:30:55] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:31:02] [Nex-AC debug] Pickupid: 622, dist: 2270.308837, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:31:02] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:31:12] [Nex-AC debug] Pickupid: 620, dist: 2277.391601, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:31:12] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:31:40] [Nex-AC debug] Pickupid: 620, dist: 2277.461181, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:31:40] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:32:22] [Nex-AC debug] Pickupid: 620, dist: 2277.443603, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:32:22] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:33:04] [Nex-AC debug] Pickupid: 620, dist: 2277.425537, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:33:04] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:33:47] [Nex-AC debug] Pickupid: 620, dist: 2277.407958, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:33:47] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:34:29] [Nex-AC debug] Pickupid: 620, dist: 2277.389404, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:34:29] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:35:11] [Nex-AC debug] Pickupid: 620, dist: 2277.370849, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:35:11] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[20:35:53] [Nex-AC debug] Pickupid: 620, dist: 2277.352294, dist set: 2274.748535, acSet[8]: -1, playerid: 0
+[20:35:53] [Nex-AC] Срабатывание на 0 ID. Код причины: 006 (1)
+[21:30:27] [part] Dan_Diey has left the server (0:1)
+[21:49:20] [connection] 37.26.129.29:44447 requests connection cookie.
+[21:49:20] [connection] incoming connection: 37.26.129.29:44447 id: 0
+[21:49:21] [join] Roma_Toper has joined the server (0:37.26.129.29)
+[21:50:09] [part] Roma_Toper has left the server (0:0)
+[21:50:22] [connection] 37.26.129.29:51157 requests connection cookie.
+[21:50:22] [connection] incoming connection: 37.26.129.29:51157 id: 0
+[21:50:23] [join] Roma_Toper has joined the server (0:37.26.129.29)
+[21:50:36] [Nex-AC debug] Dist: 2595.605957, dist set: 25000.000000, speed: 0, pos x, y, z: 0.000000, 10.000000, 0.500000, old pos x, y, z: 1754.470336, -1902.809204, 13.363400
+[21:50:36] [Nex-AC] Срабатывание на 0 ID. Код причины: 002 (2)
+[21:51:28] [part] Roma_Toper has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:42:55] 
+[07:42:55] Server Plugins
+[07:42:55] --------------
+[07:42:55]  Loading plugin: mysql_static.so
+[07:42:55]  >> plugin.mysql: R39-6 successfully loaded.
+[07:42:55]   Loaded.
+[07:42:55]  Loading plugin: pawncmd.so
+[07:42:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[07:42:55]   Loaded.
+[07:42:55]  Loading plugin: sscanf.so
+[07:42:55] 
+
+[07:42:55]  ===============================
+
+[07:42:55]       sscanf plugin loaded.     
+
+[07:42:55]          Version:  2.8.3        
+
+[07:42:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:42:55]  ===============================
+
+[07:42:55]   Loaded.
+[07:42:55]  Loading plugin: streamer.so
+[07:42:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[07:42:55]   Loaded.
+[07:42:55]  Loading plugin: md5.so
+[07:42:55]   MD5 v1.2 by BJIADOKC loaded
+[07:42:55]   Loaded.
+[07:42:55]  Loading plugin: TOTP.so
+[07:42:55] TOTP plugin v1.0.1 by Games loaded.
+[07:42:55]   Loaded.
+[07:42:55]  Loaded 6 plugins.
+
+[07:42:55] 
+[07:42:55] Filterscripts
+[07:42:55] ---------------
+[07:42:55]   Loaded 0 filterscripts.
+
+[07:42:58]  
+[07:42:58] --------------------------------------
+[07:42:58]  Античит Nex-AC загружен!
+[07:42:58]  Версия античита: 1.9.49
+[07:42:58]  Автор: Nexius
+[07:42:58] --------------------------------------
+
+[07:43:01] FullDostup успешно загружен
+[07:43:01] Бонус LEVEL:      		1
+[07:43:01] Бонус MONEY:      		10000000
+[07:43:01] Бонус DONATE:      		10000
+[07:43:01] BlackMarket работает
+[07:43:01] Цена на акссесуары:      	60000000
+[07:43:01] Цена на машины:      		50000000
+[07:43:01] Цена на скины:      		40000000
+[07:43:01] Сколько заработано:      	450000000
+[07:43:01] Загружено биллбордов:      	50
+[07:43:01] Репорты не найдены.
+[07:43:01] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[07:43:04] Загружено домов:		870
+[07:43:04] Загружено бизнесов:		185
+[07:43:04] Загружено авто:		70
+[07:43:04] Загружено семей:		3
+[07:43:04] Загружено паркингов:		38
+[07:43:04] Создано транспорта:		868
+[07:43:04] Создано объектов:		42010
+[07:43:04] Создано гангзон:		101
+[07:43:04] Сервер успешно запустился!
+[07:43:04] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:46:20] 
+[07:46:20] Server Plugins
+[07:46:20] --------------
+[07:46:20]  Loading plugin: mysql_static.so
+[07:46:20]  >> plugin.mysql: R39-6 successfully loaded.
+[07:46:20]   Loaded.
+[07:46:20]  Loading plugin: pawncmd.so
+[07:46:20] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[07:46:20]   Loaded.
+[07:46:20]  Loading plugin: sscanf.so
+[07:46:20] 
+
+[07:46:20]  ===============================
+
+[07:46:20]       sscanf plugin loaded.     
+
+[07:46:20]          Version:  2.8.3        
+
+[07:46:20]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:46:20]  ===============================
+
+[07:46:20]   Loaded.
+[07:46:20]  Loading plugin: streamer.so
+[07:46:20] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[07:46:20]   Loaded.
+[07:46:20]  Loading plugin: md5.so
+[07:46:20]   MD5 v1.2 by BJIADOKC loaded
+[07:46:20]   Loaded.
+[07:46:20]  Loading plugin: TOTP.so
+[07:46:20] TOTP plugin v1.0.1 by Games loaded.
+[07:46:20]   Loaded.
+[07:46:20]  Loaded 6 plugins.
+
+[07:46:20] 
+[07:46:20] Filterscripts
+[07:46:20] ---------------
+[07:46:20]   Loaded 0 filterscripts.
+
+[07:46:23]  
+[07:46:23] --------------------------------------
+[07:46:23]  Античит Nex-AC загружен!
+[07:46:23]  Версия античита: 1.9.49
+[07:46:23]  Автор: Nexius
+[07:46:23] --------------------------------------
+
+[07:46:27] FullDostup успешно загружен
+[07:46:27] Бонус LEVEL:      		1
+[07:46:27] Бонус MONEY:      		10000000
+[07:46:27] Бонус DONATE:      		10000
+[07:46:27] BlackMarket работает
+[07:46:27] Цена на акссесуары:      	60000000
+[07:46:27] Цена на машины:      		50000000
+[07:46:27] Цена на скины:      		40000000
+[07:46:27] Сколько заработано:      	450000000
+[07:46:27] Загружено биллбордов:      	50
+[07:46:27] Репорты не найдены.
+[07:46:27] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[07:46:30] Загружено домов:		870
+[07:46:30] Загружено бизнесов:		185
+[07:46:30] Загружено авто:		70
+[07:46:30] Загружено семей:		3
+[07:46:30] Загружено паркингов:		38
+[07:46:30] Создано транспорта:		868
+[07:46:30] Создано объектов:		42010
+[07:46:30] Создано гангзон:		101
+[07:46:30] Сервер успешно запустился!
+[07:46:30] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[07:49:58] 
+[07:49:58] Server Plugins
+[07:49:58] --------------
+[07:49:58]  Loading plugin: mysql_static.so
+[07:49:59]  >> plugin.mysql: R39-6 successfully loaded.
+[07:49:59]   Loaded.
+[07:49:59]  Loading plugin: pawncmd.so
+[07:49:59] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[07:49:59]   Loaded.
+[07:49:59]  Loading plugin: sscanf.so
+[07:49:59] 
+
+[07:49:59]  ===============================
+
+[07:49:59]       sscanf plugin loaded.     
+
+[07:49:59]          Version:  2.8.3        
+
+[07:49:59]   (c) 2018 Alex "Y_Less" Cole  
+
+[07:49:59]  ===============================
+
+[07:49:59]   Loaded.
+[07:49:59]  Loading plugin: streamer.so
+[07:49:59] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[07:49:59]   Loaded.
+[07:49:59]  Loading plugin: md5.so
+[07:49:59]   MD5 v1.2 by BJIADOKC loaded
+[07:49:59]   Loaded.
+[07:49:59]  Loading plugin: TOTP.so
+[07:49:59] TOTP plugin v1.0.1 by Games loaded.
+[07:49:59]   Loaded.
+[07:49:59]  Loaded 6 plugins.
+
+[07:49:59] 
+[07:49:59] Filterscripts
+[07:49:59] ---------------
+[07:49:59]   Loaded 0 filterscripts.
+
+[07:50:01]  
+[07:50:01] --------------------------------------
+[07:50:01]  Античит Nex-AC загружен!
+[07:50:01]  Версия античита: 1.9.49
+[07:50:01]  Автор: Nexius
+[07:50:01] --------------------------------------
+
+[07:50:05] FullDostup успешно загружен
+[07:50:05] Бонус LEVEL:      		1
+[07:50:05] Бонус MONEY:      		10000000
+[07:50:05] Бонус DONATE:      		10000
+[07:50:05] BlackMarket работает
+[07:50:05] Цена на акссесуары:      	60000000
+[07:50:05] Цена на машины:      		50000000
+[07:50:05] Цена на скины:      		40000000
+[07:50:05] Сколько заработано:      	450000000
+[07:50:05] Загружено биллбордов:      	50
+[07:50:05] Репорты не найдены.
+[07:50:05] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[07:50:08] Загружено домов:		870
+[07:50:08] Загружено бизнесов:		185
+[07:50:08] Загружено авто:		70
+[07:50:08] Загружено семей:		3
+[07:50:08] Загружено паркингов:		38
+[07:50:08] Создано транспорта:		868
+[07:50:08] Создано объектов:		42010
+[07:50:08] Создано гангзон:		101
+[07:50:08] Сервер успешно запустился!
+[07:50:08] Number of vehicle models: 132
+[21:18:07] [connection] 77.219.12.81:45375 requests connection cookie.
+[21:18:09] [connection] incoming connection: 77.219.12.81:45375 id: 0
+[21:18:10] [join] Pon_One has joined the server (0:77.219.12.81)
+[21:19:31] [part] Pon_One has left the server (0:1)
+[21:22:55] [connection] 77.219.12.81:54359 requests connection cookie.
+[21:22:56] [connection] incoming connection: 77.219.12.81:54359 id: 0
+[21:22:57] [warning] dropping a split packet from client
+[21:22:58] [warning] dropping a split packet from client
+[21:22:59] [warning] dropping a split packet from client
+[21:23:00] [warning] dropping a split packet from client
+[21:23:01] [connection] incoming connection: 77.219.12.81:54380 id: 1
+[21:23:03] [join] Pon_One has joined the server (1:77.219.12.81)
+[21:25:03] [part] Pon_One has left the server (1:0)
+[22:29:24] [connection] 77.219.12.81:9004 requests connection cookie.
+[22:29:25] [connection] incoming connection: 77.219.12.81:9004 id: 0
+[22:29:26] [join] Pon_One has joined the server (0:77.219.12.81)
+[22:33:03] [part] Pon_One has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:33:40] 
+[00:33:40] Server Plugins
+[00:33:40] --------------
+[00:33:40]  Loading plugin: mysql_static.so
+[00:33:40]  >> plugin.mysql: R39-6 successfully loaded.
+[00:33:40]   Loaded.
+[00:33:40]  Loading plugin: pawncmd.so
+[00:33:40] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:33:40]   Loaded.
+[00:33:40]  Loading plugin: sscanf.so
+[00:33:40] 
+
+[00:33:40]  ===============================
+
+[00:33:40]       sscanf plugin loaded.     
+
+[00:33:40]          Version:  2.8.3        
+
+[00:33:40]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:33:40]  ===============================
+
+[00:33:40]   Loaded.
+[00:33:40]  Loading plugin: streamer.so
+[00:33:40] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:33:40]   Loaded.
+[00:33:40]  Loading plugin: md5.so
+[00:33:40]   MD5 v1.2 by BJIADOKC loaded
+[00:33:40]   Loaded.
+[00:33:40]  Loading plugin: TOTP.so
+[00:33:40] TOTP plugin v1.0.1 by Games loaded.
+[00:33:40]   Loaded.
+[00:33:40]  Loaded 6 plugins.
+
+[00:33:40] 
+[00:33:40] Filterscripts
+[00:33:40] ---------------
+[00:33:40]   Loaded 0 filterscripts.
+
+[00:33:42]  
+[00:33:42] --------------------------------------
+[00:33:42]  Античит Nex-AC загружен!
+[00:33:42]  Версия античита: 1.9.49
+[00:33:42]  Автор: Nexius
+[00:33:42] --------------------------------------
+
+[00:33:46] FullDostup успешно загружен
+[00:33:46] Бонус LEVEL:      		1
+[00:33:46] Бонус MONEY:      		10000000
+[00:33:46] Бонус DONATE:      		10000
+[00:33:46] BlackMarket работает
+[00:33:46] Цена на акссесуары:      	60000000
+[00:33:46] Цена на машины:      		50000000
+[00:33:46] Цена на скины:      		40000000
+[00:33:46] Сколько заработано:      	450000000
+[00:33:46] Загружено биллбордов:      	50
+[00:33:46] Репорты не найдены.
+[00:33:46] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[00:33:49] Загружено домов:		870
+[00:33:49] Загружено бизнесов:		185
+[00:33:49] Загружено авто:		70
+[00:33:49] Загружено семей:		3
+[00:33:49] Загружено паркингов:		38
+[00:33:49] Создано транспорта:		868
+[00:33:49] Создано объектов:		42010
+[00:33:49] Создано гангзон:		101
+[00:33:49] Сервер успешно запустился!
+[00:33:49] Number of vehicle models: 132
+[05:03:03] Setting server password to: "3301001"
+[05:05:06] Server password has been removed.
+[05:05:07]  
+[05:05:07] --------------------------------------
+[05:05:07]  Статистика античита Nex-AC
+[05:05:07]  Обнаружено и предотвращено:
+[05:05:07]   0 попыток читерства
+[05:05:07]   0 попыток взлома
+[05:05:07]   0 попыток краша
+[05:05:07]   0 попыток флуда
+[05:05:07]   0 атак
+[05:05:07]  Всего обнаружено и наказано 0 читеров
+[05:05:07] --------------------------------------
+
+[05:05:20]  
+[05:05:20] --------------------------------------
+[05:05:20]  Античит Nex-AC загружен!
+[05:05:20]  Версия античита: 1.9.49
+[05:05:20]  Автор: Nexius
+[05:05:20] --------------------------------------
+
+[05:05:22] FullDostup успешно загружен
+[05:05:23] Бонус LEVEL:      		1
+[05:05:23] Бонус MONEY:      		10000000
+[05:05:23] Бонус DONATE:      		10000
+[05:05:23] BlackMarket работает
+[05:05:23] Цена на акссесуары:      	60000000
+[05:05:23] Цена на машины:      		50000000
+[05:05:23] Цена на скины:      		40000000
+[05:05:23] Сколько заработано:      	450000000
+[05:05:23] Загружено биллбордов:      	50
+[05:05:23] Репорты не найдены.
+[05:05:23] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[05:05:25] Загружено домов:		870
+[05:05:25] Загружено бизнесов:		185
+[05:05:25] Загружено авто:		70
+[05:05:25] Загружено семей:		3
+[05:05:25] Загружено паркингов:		38
+[05:05:25] Создано транспорта:		868
+[05:05:25] Создано объектов:		42010
+[05:05:25] Создано гангзон:		101
+[05:05:25] Сервер успешно запустился!
+[05:05:25] Number of vehicle models: 132
+[22:31:50] [connection] 194.242.103.203:48266 requests connection cookie.
+[22:32:02] [connection] incoming connection: 194.242.103.203:48266 id: 0
+[22:32:02] [join] Emanuel_Monacco has joined the server (0:194.242.103.203)
+[22:32:12] [part] Emanuel_Monacco has left the server (0:0)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[00:34:05] 
+[00:34:05] Server Plugins
+[00:34:05] --------------
+[00:34:05]  Loading plugin: mysql_static.so
+[00:34:05]  >> plugin.mysql: R39-6 successfully loaded.
+[00:34:05]   Loaded.
+[00:34:05]  Loading plugin: pawncmd.so
+[00:34:06] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[00:34:06]   Loaded.
+[00:34:06]  Loading plugin: sscanf.so
+[00:34:06] 
+
+[00:34:06]  ===============================
+
+[00:34:06]       sscanf plugin loaded.     
+
+[00:34:06]          Version:  2.8.3        
+
+[00:34:06]   (c) 2018 Alex "Y_Less" Cole  
+
+[00:34:06]  ===============================
+
+[00:34:06]   Loaded.
+[00:34:06]  Loading plugin: streamer.so
+[00:34:06] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[00:34:06]   Loaded.
+[00:34:06]  Loading plugin: md5.so
+[00:34:06]   MD5 v1.2 by BJIADOKC loaded
+[00:34:06]   Loaded.
+[00:34:06]  Loading plugin: TOTP.so
+[00:34:06] TOTP plugin v1.0.1 by Games loaded.
+[00:34:06]   Loaded.
+[00:34:06]  Loaded 6 plugins.
+
+[00:34:06] 
+[00:34:06] Filterscripts
+[00:34:06] ---------------
+[00:34:06]   Loaded 0 filterscripts.
+
+[00:34:09]  
+[00:34:09] --------------------------------------
+[00:34:09]  Античит Nex-AC загружен!
+[00:34:09]  Версия античита: 1.9.49
+[00:34:09]  Автор: Nexius
+[00:34:09] --------------------------------------
+
+[00:34:12] FullDostup успешно загружен
+[00:34:13] Бонус LEVEL:      		1
+[00:34:13] Бонус MONEY:      		10000000
+[00:34:13] Бонус DONATE:      		10000
+[00:34:13] BlackMarket работает
+[00:34:13] Цена на акссесуары:      	60000000
+[00:34:13] Цена на машины:      		50000000
+[00:34:13] Цена на скины:      		40000000
+[00:34:13] Сколько заработано:      	450000000
+[00:34:13] Загружено биллбордов:      	50
+[00:34:13] Репорты не найдены.
+[00:34:13] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[00:34:16] Загружено домов:		870
+[00:34:16] Загружено бизнесов:		185
+[00:34:16] Загружено авто:		70
+[00:34:16] Загружено семей:		3
+[00:34:16] Загружено паркингов:		38
+[00:34:16] Создано транспорта:		868
+[00:34:16] Создано объектов:		42010
+[00:34:16] Создано гангзон:		101
+[00:34:16] Сервер успешно запустился!
+[00:34:16] Number of vehicle models: 132
+[05:03:03] Setting server password to: "8326105"
+[05:05:06] Server password has been removed.
+[05:05:07]  
+[05:05:07] --------------------------------------
+[05:05:07]  Статистика античита Nex-AC
+[05:05:07]  Обнаружено и предотвращено:
+[05:05:07]   0 попыток читерства
+[05:05:07]   0 попыток взлома
+[05:05:07]   0 попыток краша
+[05:05:07]   0 попыток флуда
+[05:05:07]   0 атак
+[05:05:07]  Всего обнаружено и наказано 0 читеров
+[05:05:07] --------------------------------------
+
+[05:05:19]  
+[05:05:19] --------------------------------------
+[05:05:19]  Античит Nex-AC загружен!
+[05:05:19]  Версия античита: 1.9.49
+[05:05:19]  Автор: Nexius
+[05:05:19] --------------------------------------
+
+[05:05:22] FullDostup успешно загружен
+[05:05:22] Бонус LEVEL:      		1
+[05:05:22] Бонус MONEY:      		10000000
+[05:05:22] Бонус DONATE:      		10000
+[05:05:22] BlackMarket работает
+[05:05:22] Цена на акссесуары:      	60000000
+[05:05:22] Цена на машины:      		50000000
+[05:05:22] Цена на скины:      		40000000
+[05:05:22] Сколько заработано:      	450000000
+[05:05:22] Загружено биллбордов:      	50
+[05:05:22] Репорты не найдены.
+[05:05:22] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[05:05:25] Загружено домов:		870
+[05:05:25] Загружено бизнесов:		185
+[05:05:25] Загружено авто:		70
+[05:05:25] Загружено семей:		3
+[05:05:25] Загружено паркингов:		38
+[05:05:25] Создано транспорта:		868
+[05:05:25] Создано объектов:		42010
+[05:05:25] Создано гангзон:		101
+[05:05:25] Сервер успешно запустился!
+[05:05:25] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[09:08:19] 
+[09:08:19] Server Plugins
+[09:08:19] --------------
+[09:08:19]  Loading plugin: mysql_static.so
+[09:08:19]  >> plugin.mysql: R39-6 successfully loaded.
+[09:08:19]   Loaded.
+[09:08:19]  Loading plugin: pawncmd.so
+[09:08:19] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[09:08:19]   Loaded.
+[09:08:19]  Loading plugin: sscanf.so
+[09:08:19] 
+
+[09:08:19]  ===============================
+
+[09:08:19]       sscanf plugin loaded.     
+
+[09:08:19]          Version:  2.8.3        
+
+[09:08:19]   (c) 2018 Alex "Y_Less" Cole  
+
+[09:08:19]  ===============================
+
+[09:08:19]   Loaded.
+[09:08:19]  Loading plugin: streamer.so
+[09:08:19] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[09:08:19]   Loaded.
+[09:08:19]  Loading plugin: md5.so
+[09:08:19]   MD5 v1.2 by BJIADOKC loaded
+[09:08:19]   Loaded.
+[09:08:19]  Loading plugin: TOTP.so
+[09:08:19] TOTP plugin v1.0.1 by Games loaded.
+[09:08:19]   Loaded.
+[09:08:19]  Loaded 6 plugins.
+
+[09:08:19] 
+[09:08:19] Filterscripts
+[09:08:19] ---------------
+[09:08:19]   Loaded 0 filterscripts.
+
+[09:08:22]  
+[09:08:22] --------------------------------------
+[09:08:22]  Античит Nex-AC загружен!
+[09:08:22]  Версия античита: 1.9.49
+[09:08:22]  Автор: Nexius
+[09:08:22] --------------------------------------
+
+[09:08:25] FullDostup успешно загружен
+[09:08:25] Бонус LEVEL:      		1
+[09:08:25] Бонус MONEY:      		10000000
+[09:08:25] Бонус DONATE:      		10000
+[09:08:25] BlackMarket работает
+[09:08:25] Цена на акссесуары:      	60000000
+[09:08:25] Цена на машины:      		50000000
+[09:08:25] Цена на скины:      		40000000
+[09:08:25] Сколько заработано:      	450000000
+[09:08:25] Загружено биллбордов:      	50
+[09:08:25] Репорты не найдены.
+[09:08:25] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[09:08:28] Загружено домов:		870
+[09:08:28] Загружено бизнесов:		185
+[09:08:28] Загружено авто:		70
+[09:08:28] Загружено семей:		3
+[09:08:28] Загружено паркингов:		38
+[09:08:28] Создано транспорта:		868
+[09:08:28] Создано объектов:		42010
+[09:08:28] Создано гангзон:		101
+[09:08:28] Сервер успешно запустился!
+[09:08:28] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:45:42] 
+[08:45:42] Server Plugins
+[08:45:42] --------------
+[08:45:42]  Loading plugin: mysql_static.so
+[08:45:42]  >> plugin.mysql: R39-6 successfully loaded.
+[08:45:42]   Loaded.
+[08:45:42]  Loading plugin: pawncmd.so
+[08:45:42] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:45:42]   Loaded.
+[08:45:42]  Loading plugin: sscanf.so
+[08:45:42] 
+
+[08:45:42]  ===============================
+
+[08:45:42]       sscanf plugin loaded.     
+
+[08:45:42]          Version:  2.8.3        
+
+[08:45:42]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:45:42]  ===============================
+
+[08:45:42]   Loaded.
+[08:45:42]  Loading plugin: streamer.so
+[08:45:42] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:45:42]   Loaded.
+[08:45:42]  Loading plugin: md5.so
+[08:45:42]   MD5 v1.2 by BJIADOKC loaded
+[08:45:42]   Loaded.
+[08:45:42]  Loading plugin: TOTP.so
+[08:45:42] TOTP plugin v1.0.1 by Games loaded.
+[08:45:42]   Loaded.
+[08:45:42]  Loaded 6 plugins.
+
+[08:45:42] 
+[08:45:42] Filterscripts
+[08:45:42] ---------------
+[08:45:42]   Loaded 0 filterscripts.
+
+[08:45:45]  
+[08:45:45] --------------------------------------
+[08:45:45]  Античит Nex-AC загружен!
+[08:45:45]  Версия античита: 1.9.49
+[08:45:45]  Автор: Nexius
+[08:45:45] --------------------------------------
+
+[08:45:48] FullDostup успешно загружен
+[08:45:48] Бонус LEVEL:      		1
+[08:45:48] Бонус MONEY:      		10000000
+[08:45:48] Бонус DONATE:      		10000
+[08:45:48] BlackMarket работает
+[08:45:48] Цена на акссесуары:      	60000000
+[08:45:48] Цена на машины:      		50000000
+[08:45:48] Цена на скины:      		40000000
+[08:45:48] Сколько заработано:      	450000000
+[08:45:48] Загружено биллбордов:      	50
+[08:45:48] Репорты не найдены.
+[08:45:48] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[08:45:51] Загружено домов:		870
+[08:45:51] Загружено бизнесов:		185
+[08:45:51] Загружено авто:		70
+[08:45:51] Загружено семей:		3
+[08:45:51] Загружено паркингов:		38
+[08:45:51] Создано транспорта:		868
+[08:45:51] Создано объектов:		42010
+[08:45:51] Создано гангзон:		101
+[08:45:51] Сервер успешно запустился!
+[08:45:51] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:58:03] 
+[08:58:03] Server Plugins
+[08:58:03] --------------
+[08:58:03]  Loading plugin: mysql_static.so
+[08:58:03]  >> plugin.mysql: R39-6 successfully loaded.
+[08:58:03]   Loaded.
+[08:58:03]  Loading plugin: pawncmd.so
+[08:58:03] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:58:03]   Loaded.
+[08:58:03]  Loading plugin: sscanf.so
+[08:58:03] 
+
+[08:58:03]  ===============================
+
+[08:58:03]       sscanf plugin loaded.     
+
+[08:58:03]          Version:  2.8.3        
+
+[08:58:03]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:58:03]  ===============================
+
+[08:58:03]   Loaded.
+[08:58:03]  Loading plugin: streamer.so
+[08:58:03] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:58:03]   Loaded.
+[08:58:03]  Loading plugin: md5.so
+[08:58:03]   MD5 v1.2 by BJIADOKC loaded
+[08:58:03]   Loaded.
+[08:58:03]  Loading plugin: TOTP.so
+[08:58:03] TOTP plugin v1.0.1 by Games loaded.
+[08:58:03]   Loaded.
+[08:58:03]  Loaded 6 plugins.
+
+[08:58:04] 
+[08:58:04] Filterscripts
+[08:58:04] ---------------
+[08:58:04]   Loaded 0 filterscripts.
+
+[08:58:07]  
+[08:58:07] --------------------------------------
+[08:58:07]  Античит Nex-AC загружен!
+[08:58:07]  Версия античита: 1.9.49
+[08:58:07]  Автор: Nexius
+[08:58:07] --------------------------------------
+
+[08:58:10] FullDostup успешно загружен
+[08:58:10] Бонус LEVEL:      		1
+[08:58:10] Бонус MONEY:      		10000000
+[08:58:10] Бонус DONATE:      		10000
+[08:58:10] BlackMarket работает
+[08:58:10] Цена на акссесуары:      	60000000
+[08:58:10] Цена на машины:      		50000000
+[08:58:10] Цена на скины:      		40000000
+[08:58:10] Сколько заработано:      	450000000
+[08:58:10] Загружено биллбордов:      	50
+[08:58:10] Репорты не найдены.
+[08:58:10] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[08:58:13] Загружено домов:		870
+[08:58:13] Загружено бизнесов:		185
+[08:58:13] Загружено авто:		70
+[08:58:13] Загружено семей:		3
+[08:58:13] Загружено паркингов:		38
+[08:58:13] Создано транспорта:		868
+[08:58:13] Создано объектов:		42010
+[08:58:13] Создано гангзон:		101
+[08:58:13] Сервер успешно запустился!
+[08:58:13] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[16:57:55] 
+[16:57:55] Server Plugins
+[16:57:55] --------------
+[16:57:55]  Loading plugin: mysql_static.so
+[16:57:55]  >> plugin.mysql: R39-6 successfully loaded.
+[16:57:55]   Loaded.
+[16:57:55]  Loading plugin: pawncmd.so
+[16:57:55] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[16:57:55]   Loaded.
+[16:57:55]  Loading plugin: sscanf.so
+[16:57:55] 
+
+[16:57:55]  ===============================
+
+[16:57:55]       sscanf plugin loaded.     
+
+[16:57:55]          Version:  2.8.3        
+
+[16:57:55]   (c) 2018 Alex "Y_Less" Cole  
+
+[16:57:55]  ===============================
+
+[16:57:55]   Loaded.
+[16:57:55]  Loading plugin: streamer.so
+[16:57:55] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[16:57:55]   Loaded.
+[16:57:55]  Loading plugin: md5.so
+[16:57:55]   MD5 v1.2 by BJIADOKC loaded
+[16:57:55]   Loaded.
+[16:57:55]  Loading plugin: TOTP.so
+[16:57:55] TOTP plugin v1.0.1 by Games loaded.
+[16:57:55]   Loaded.
+[16:57:55]  Loaded 6 plugins.
+
+[16:57:55] 
+[16:57:55] Filterscripts
+[16:57:55] ---------------
+[16:57:55]   Loaded 0 filterscripts.
+
+[16:57:57]  
+[16:57:57] --------------------------------------
+[16:57:57]  Античит Nex-AC загружен!
+[16:57:57]  Версия античита: 1.9.49
+[16:57:57]  Автор: Nexius
+[16:57:57] --------------------------------------
+
+[16:58:01] FullDostup успешно загружен
+[16:58:01] Бонус LEVEL:      		1
+[16:58:01] Бонус MONEY:      		10000000
+[16:58:01] Бонус DONATE:      		10000
+[16:58:01] BlackMarket работает
+[16:58:01] Цена на акссесуары:      	60000000
+[16:58:01] Цена на машины:      		50000000
+[16:58:01] Цена на скины:      		40000000
+[16:58:01] Сколько заработано:      	450000000
+[16:58:01] Загружено биллбордов:      	50
+[16:58:01] Репорты не найдены.
+[16:58:01] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[16:58:04] Загружено домов:		870
+[16:58:04] Загружено бизнесов:		185
+[16:58:04] Загружено авто:		70
+[16:58:04] Загружено семей:		3
+[16:58:04] Загружено паркингов:		38
+[16:58:04] Создано транспорта:		868
+[16:58:04] Создано объектов:		42010
+[16:58:04] Создано гангзон:		101
+[16:58:04] Сервер успешно запустился!
+[16:58:04] Number of vehicle models: 132
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[08:36:15] 
+[08:36:15] Server Plugins
+[08:36:15] --------------
+[08:36:15]  Loading plugin: mysql_static.so
+[08:36:15]  >> plugin.mysql: R39-6 successfully loaded.
+[08:36:15]   Loaded.
+[08:36:15]  Loading plugin: pawncmd.so
+[08:36:15] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[08:36:15]   Loaded.
+[08:36:15]  Loading plugin: sscanf.so
+[08:36:15] 
+
+[08:36:15]  ===============================
+
+[08:36:15]       sscanf plugin loaded.     
+
+[08:36:15]          Version:  2.8.3        
+
+[08:36:15]   (c) 2018 Alex "Y_Less" Cole  
+
+[08:36:15]  ===============================
+
+[08:36:15]   Loaded.
+[08:36:15]  Loading plugin: streamer.so
+[08:36:15] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[08:36:15]   Loaded.
+[08:36:15]  Loading plugin: md5.so
+[08:36:15]   MD5 v1.2 by BJIADOKC loaded
+[08:36:15]   Loaded.
+[08:36:15]  Loading plugin: TOTP.so
+[08:36:15] TOTP plugin v1.0.1 by Games loaded.
+[08:36:15]   Loaded.
+[08:36:15]  Loaded 6 plugins.
+
+[08:36:15] 
+[08:36:15] Filterscripts
+[08:36:15] ---------------
+[08:36:15]   Loaded 0 filterscripts.
+
+[08:36:17]  
+[08:36:17] --------------------------------------
+[08:36:17]  Античит Nex-AC загружен!
+[08:36:17]  Версия античита: 1.9.49
+[08:36:17]  Автор: Nexius
+[08:36:17] --------------------------------------
+
+[08:36:20] FullDostup успешно загружен
+[08:36:21] Бонус LEVEL:      		1
+[08:36:21] Бонус MONEY:      		10000000
+[08:36:21] Бонус DONATE:      		10000
+[08:36:21] BlackMarket работает
+[08:36:21] Цена на акссесуары:      	60000000
+[08:36:21] Цена на машины:      		50000000
+[08:36:21] Цена на скины:      		40000000
+[08:36:21] Сколько заработано:      	450000000
+[08:36:21] Загружено биллбордов:      	50
+[08:36:21] Репорты не найдены.
+[08:36:21] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 1мс.
+[08:36:23] Загружено домов:		870
+[08:36:23] Загружено бизнесов:		185
+[08:36:23] Загружено авто:		70
+[08:36:23] Загружено семей:		3
+[08:36:23] Загружено паркингов:		38
+[08:36:23] Создано транспорта:		868
+[08:36:23] Создано объектов:		42010
+[08:36:23] Создано гангзон:		101
+[08:36:23] Сервер успешно запустился!
+[08:36:23] Number of vehicle models: 132
