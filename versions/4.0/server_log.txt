@@ -1,0 +1,211 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:12:44] mapname = "San Andreas"  (string)
+[21:12:44] 
+[21:12:44] Server Plugins
+[21:12:44] --------------
+[21:12:44]  Loading plugin: anti-raksamp.so
+[21:12:44]   Failed (plugins/anti-raksamp.so: cannot open shared object file: No such file or directory)
+[21:12:44]  Loading plugin: crashdetect.so
+[21:12:44]   CrashDetect plugin 4.20
+[21:12:44]   Loaded.
+[21:12:44]  Loading plugin: fmt.so
+[21:12:44]  * fmt plugin loaded
+[21:12:44]  * v2.1 (c) vsergeenko
+[21:12:44]   Loaded.
+[21:12:44]  Loading plugin: mapandreas.so
+[21:12:44]   Loaded.
+[21:12:44]  Loading plugin: mysql_static.so
+[21:12:44]  >> plugin.mysql: R39-6 successfully loaded.
+[21:12:44]   Loaded.
+[21:12:44]  Loading plugin: pawncmd.so
+[21:12:44] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[21:12:44]   Loaded.
+[21:12:44]  Loading plugin: pawnraknet.so
+[21:12:44] [Pawn.RakNet] 
+
+    | Pawn.RakNet 1.4.1 | 2016 - 2020
+    |--------------------------------
+    | Author and maintainer: urShadow
+
+
+    | Compiled: Jun 18 2020 at 11:28:17
+    |--------------------------------------------------------------
+    | Forum thread: https://forum.sa-mp.com/showthread.php?t=640306
+    |--------------------------------------------------------------
+    | Repository: https://github.com/urShadow/Pawn.RakNet
+    |--------------------------------------------------------------
+    | Wiki: https://github.com/urShadow/Pawn.RakNet/wiki
+
+[21:12:44]   Loaded.
+[21:12:44]  Loading plugin: sscanf.so
+[21:12:44] 
+
+[21:12:44]  ===============================
+
+[21:12:44]       sscanf plugin loaded.     
+
+[21:12:44]          Version:  2.8.3        
+
+[21:12:44]   (c) 2018 Alex "Y_Less" Cole  
+
+[21:12:44]  ===============================
+
+[21:12:44]   Loaded.
+[21:12:44]  Loading plugin: streamer.so
+[21:12:44] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[21:12:44]   Loaded.
+[21:12:44]  Loading plugin: TOTP.so
+[21:12:44] TOTP plugin v1.0.1 by Games loaded.
+[21:12:44]   Loaded.
+[21:12:44]  Loading plugin: YSF.so
+[21:12:45] 
+[21:12:45]  ===============================
+[21:12:45]         YSF - kurta999's version 2.0 loaded
+[21:12:45]    (c) 2008 Alex "Y_Less" Cole - (c) 2010 - 2016 kurta999
+[21:12:45]     Server version: 0.3.7 R2-1 or R2-2
+[21:12:45]     Operating System: Linux
+[21:12:45]     Built on: May 24 2020 at 14:54:09
+[21:12:45]  ===============================
+[21:12:45] 
+[21:12:45]   Loaded.
+[21:12:45]  Loading plugin: CrackLauncherAddon.so
+[21:12:45]   Loaded.
+[21:12:45]  Loading plugin: LauncherAddon.so
+[21:12:54] 
+[21:12:54]  ========[ LauncherAddon 1.3 ]========
+[21:12:54]    
+[21:12:54]    Версия сервера: 0.3.7 R2
+[21:12:54]    Операционная система: Linux
+[21:12:54]    
+[21:12:54]    (c) - legendabrn -
+[21:12:54]    crack by vk.com/legendabrn
+[21:12:54]    
+[21:12:54]    Проверка активации...
+[21:12:54]    Проверка активации успешно пройдена
+[21:12:54]  ===============================
+[21:12:54]   Loaded.
+[21:12:54]  Loading plugin: sampvoice.so
+[21:12:54] [sv:dbg:network:init] : module initializing...
+[21:12:54] [dbg:raknet:init] : module initializing...
+[21:12:54] [dbg:raknet:init] : installed hook to 'GetRakServerInterface' function (ptr:0x806ca30)
+[21:12:54] [dbg:raknet:init] : installed hook to 'OnPlayerDisconnect' function (ptr:0x80a51d0)
+[21:12:54] [dbg:raknet:init] : module initialized
+[21:12:54] [sv:dbg:network:init] : module initialized
+[21:12:54]  -------------------------------------------    
+[21:12:54]    ___                __   __    _              
+[21:12:54]   / __| __ _ _ __  _ _\ \ / /__ (_) __ ___    
+[21:12:54]   \__ \/ _` | '  \| '_ \   / _ \| |/ _/ -_)
+[21:12:54]   |___/\__,_|_|_|_| .__/\_/\___/|_|\__\___|
+[21:12:54]                   |_|                           
+[21:12:54]  -------------------------------------------    
+[21:12:54]            SampVoice by MOR loaded              
+[21:12:54]  -------------------------------------------    
+[21:12:54]   Loaded.
+[21:12:54]  Loaded 13 plugins.
+
+[21:12:54] 
+[21:12:54] Filterscripts
+[21:12:54] ---------------
+[21:12:54]   Loading filterscript 'map.amx'...
+[21:12:55] [Launcher Addon]: Warning - В загружаемом AMX не подключен инклуд LauncherAddon.inc
+[21:12:55] [sv:dbg:main:AmxLoad] : net game pointer (value:0x8b4fbc0) received
+[21:12:55] [sv:dbg:network:bind] : voice server running on port 57535
+[21:12:58] LoadMap загрузился за 3102 ms
+[21:12:58]   Loading filterscript 'attached.amx'...
+[21:12:58] [Launcher Addon]: Warning - В загружаемом AMX не подключен инклуд LauncherAddon.inc
+[21:12:58] [sv:dbg:main:AmxLoad] : failed to bind voice server
+[21:12:58]   Loading filterscript 'other.amx'...
+[21:12:58] [Launcher Addon]: Warning - В загружаемом AMX не подключен инклуд LauncherAddon.inc
+[21:12:58] [sv:dbg:main:AmxLoad] : failed to bind voice server
+[21:12:58]   Loading filterscript 'cao.amx'...
+[21:12:58]   Unable to load filterscript 'cao.amx'.
+[21:12:58]   Loaded 3 filterscripts.
+
+[21:13:00] [sv:dbg:main:AmxLoad] : failed to bind voice server
+[21:13:00] [Pawn.CMD] n_PC_RegAlias: alias 'veh' is occupied
+[21:13:00] MapAndreas: plugin could not init!
+[21:13:00] MapAndreas: check files and make sure you have enough memory!
+[21:13:00] LoadInformation загрузился за 2 ms
+[21:13:00] Server password has been removed.
+[21:13:01] Подключение к базе данных удалось
+[21:13:01] LoadSletCar загрузился за 2 ms
+[21:13:01] LoadRadars загрузился за 0 ms
+[21:13:03] LoadHouses загрузился за 2376 ms
+[21:13:03] LoadBiz загрузился за 303 ms
+[21:13:03] LoadOrgs загрузился за 3 ms
+[21:13:03] LoadGangZones загрузился за 1 ms
+[21:13:03] LoadTrash загрузился за 96 ms
+[21:13:04] LoadVehicles загрузился за 396 ms
+[21:13:04] LoadOther загрузился за 603 ms
+[21:13:04] LoadGlobalTextDraws загрузился за 1 ms
+[21:13:04] LoadAntiDM загрузился за 73 ms
+[21:13:06] LoadCity загрузился за 1601 ms
+[21:13:06] Семейные квартиры загружены	29
+[21:13:06] LoadOwnableCars загрузился за 5 ms
+[21:13:07] [MySQL]: Загружено настроек анти-чита: 53
+[21:13:07] [MySQL]: Загружено AntiDM зон: 40
+[21:13:07] [MySQL]: Загружено домов: 810
+[21:13:07] [MySQL]: Загружено бизнесов: 220
+[21:13:07] [MySQL]: Загружено транспорта: 0
+[21:13:07] [MySQL]: Загружено транспорта на продажу: 0
+[21:13:07] [MySQL]: Загружено радаров: 0
+[21:13:07] [Server]: Создано транспорта: 863
+[21:13:07] [Server]: Создано объектов: 67341
+[21:13:07] [Server]: Создано гангзон: 130
+[21:13:07] [Server]: Создано иконок: 1241
+[21:13:07] [Server]: Создано 3D текстов: 3705
+[21:13:07] OnGameModeInit загрузился за 6204 ms
+[21:13:07] Number of vehicle models: 100
+[21:13:07] Успешная загрузка 'LoadFamily' - загружено 27 семей за 1 м.с
+[21:14:00] [connection] 84.196.16.43:58941 requests connection cookie.
+[21:14:01] [connection] incoming connection: 84.196.16.43:58941 id: 0
+[21:14:01] [join] Angel_Skay has joined the server (0:84.196.16.43)
+[21:15:26] LoadOwnableCars загрузился за 1 ms
+[21:16:45] [sv:dbg:network:connect] : disconnecting player (0) ...
+[21:16:45] [part] Angel_Skay has left the server (0:1)
+[21:18:35] [connection] 84.196.16.43:58684 requests connection cookie.
+[21:18:36] [connection] incoming connection: 84.196.16.43:58684 id: 0
+[21:18:36] [join] Angel_Skay has joined the server (0:84.196.16.43)
+[21:18:44] LoadOwnableCars загрузился за 3 ms
+[21:19:47] [sv:dbg:network:connect] : disconnecting player (0) ...
+[21:19:47] [part] Angel_Skay has left the server (0:0)
+[21:20:40] [connection] 84.196.16.43:50090 requests connection cookie.
+[21:20:41] [connection] incoming connection: 84.196.16.43:50090 id: 0
+[21:20:41] [join] Angel_Skay has joined the server (0:84.196.16.43)
+[21:20:48] LoadOwnableCars загрузился за 1 ms
+[21:21:14] [sv:dbg:network:connect] : disconnecting player (0) ...
+[21:21:14] [part] Angel_Skay has left the server (0:1)
+[21:22:46] [connection] 84.196.16.43:55132 requests connection cookie.
+[21:22:47] [connection] incoming connection: 84.196.16.43:55132 id: 0
+[21:22:48] [join] Angel_Skay has joined the server (0:84.196.16.43)
+[21:22:54] LoadOwnableCars загрузился за 1 ms
+[21:24:43] Server password has been removed.
+[21:25:02] Setting server password to: "123000"
+[21:28:12] [sv:dbg:network:connect] : disconnecting player (0) ...
+[21:28:12] [part] Angel_Skay has left the server (0:1)
+[21:28:57] [connection] 94.231.70.168:63513 requests connection cookie.
+[21:28:58] [connection] incoming connection: 94.231.70.168:63513 id: 0
+[21:28:58] [join] Maxim_Nazarov has joined the server (0:94.231.70.168)
+[21:29:07] [sv:dbg:network:connect] : disconnecting player (0) ...
+[21:29:07] [part] Maxim_Nazarov has left the server (0:2)
+[21:29:41] [connection] 94.231.70.168:56345 requests connection cookie.
+[21:29:42] [connection] incoming connection: 94.231.70.168:56345 id: 0
+[21:29:43] [join] Lunik_Samp has joined the server (0:94.231.70.168)
+[21:29:58] LoadOwnableCars загрузился за 5 ms
+[21:30:49] [Nex-AC debug] Entered veh: 0, veh: 863, entered seat: -1, seat: 0, veh model: 509, enter time: 1084828
+[21:30:49] [Nex-AC] Срабатывание на 0 ID. Код причины: 004 (1)
+[21:30:49] [Nex-AC debug] AC seat: -1, seatid: 0, veh model: 509, veh: 863
+[21:30:49] [Nex-AC] Срабатывание на 0 ID. Код причины: 050
+[21:34:32] [sv:dbg:network:connect] : disconnecting player (0) ...
+[21:34:32] [part] Lunik_Samp has left the server (0:1)
