@@ -1,0 +1,90 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:51:18] 
+[17:51:18] Server Plugins
+[17:51:18] --------------
+[17:51:18]  Loading plugin: mysql_static.so
+[17:51:18]  >> plugin.mysql: R39-6 successfully loaded.
+[17:51:18]   Loaded.
+[17:51:18]  Loading plugin: pawncmd.so
+[17:51:18] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[17:51:18]   Loaded.
+[17:51:18]  Loading plugin: pawnraknet.so
+[17:51:18] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[17:51:18]   Loaded.
+[17:51:18]  Loading plugin: sscanf.so
+[17:51:18] 
+
+[17:51:18]  ===============================
+
+[17:51:18]       sscanf plugin loaded.     
+
+[17:51:18]          Version:  2.8.3        
+
+[17:51:18]   (c) 2018 Alex "Y_Less" Cole  
+
+[17:51:18]  ===============================
+
+[17:51:18]   Loaded.
+[17:51:18]  Loading plugin: streamer.so
+[17:51:18] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[17:51:18]   Loaded.
+[17:51:18]  Loading plugin: TOTP.so
+[17:51:18] TOTP plugin v1.0.1 by Games loaded.
+[17:51:18]   Loaded.
+[17:51:18]  Loaded 6 plugins.
+
+[17:51:19] 
+[17:51:19] Filterscripts
+[17:51:19] ---------------
+[17:51:19]   Loading filterscript 'map.amx'...
+[17:51:19]   Loading filterscript 'fixes.amx'...
+[17:51:19]   Loaded 2 filterscripts.
+
+[17:51:20]  
+[17:51:20] --------------------------------------
+[17:51:20]  Античит Nex-AC загружен!
+[17:51:20]  Версия античита: 1.9.51
+[17:51:20]  Автор: Nexius
+[17:51:20] --------------------------------------
+
+[17:51:20] Подключение к базе данных удалось
+[17:51:20] [Server Log]: OnGameModeInit Успешно загружен
+[17:51:21] [Mysql Log]: Семейные квартиры загружены	28. Потрачено: 0мс
+[17:51:22] ИД созданы клады 115
+[17:51:22] ИД созданы клады 74
+[17:51:22] ИД созданы клады 1
+[17:51:25] Кары на слет загружены в кол-ве 20
+[17:51:25] [Server Log] Загружено актеров:      1000
+[17:51:25] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[17:51:25] [Server Log] Всего было загружено antizz: 44
+[17:51:25] [Mysql Log]: Загружено домов:      0851
+[17:51:25] [Mysql Log]: Загружено бизнесов:   0153
+[17:51:25] [Mysql Log]: Загружено транспорта: 0009
+[17:51:25] [Mysql Log]: Создано объектов:    0906
+[17:51:25] [Mysql Log]: Создано гангзон:     0130
+[17:51:25] [Mysql Log]: Создано иконки:       1077
+[17:51:25] [Mysql Log]: Создано 3D текстов:   2967
+[17:51:26]  =============================================
+[17:51:26] |              - Создатель мода -             |
+[17:51:26] |          Александр Данилюк               |
+[17:51:26] |            - vk.com/sashatop2003 -           |
+[17:51:26]  =============================================
+[17:51:27] Маппинг загружен за 2102 ms.
+[17:51:27] Number of vehicle models: 102
+[17:51:27] [Server Log][Загружено семей]: <0>. Потрачено: <1 ms>.
+[17:54:26] [connection] 91.196.55.35:61037 requests connection cookie.
+[17:54:27] [connection] incoming connection: 91.196.55.35:61037 id: 0
+[17:54:27] [join] Lunik_Samp has joined the server (0:91.196.55.35)
+[17:54:51] [Mysql Log]: OnPlayerRegister: NickName: Lunik_Samp, Password: luncuz090
+[18:02:07] [part] Lunik_Samp has left the server (0:1)
