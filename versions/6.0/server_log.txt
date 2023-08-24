@@ -1,0 +1,85 @@
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[18:30:23] 
+[18:30:23] Server Plugins
+[18:30:23] --------------
+[18:30:23]  Loading plugin: mysql_static.so
+[18:30:23]  >> plugin.mysql: R39-6 successfully loaded.
+[18:30:23]   Loaded.
+[18:30:23]  Loading plugin: pawncmd.so
+[18:30:23] Pawn.CMD plugin v3.2.0 by urShadow has been loaded
+[18:30:23]   Loaded.
+[18:30:23]  Loading plugin: pawnraknet.so
+[18:30:23] Pawn.RakNet plugin v1.3.0 by urShadow has been loaded
+[18:30:23]   Loaded.
+[18:30:23]  Loading plugin: sscanf.so
+[18:30:23] 
+
+[18:30:23]  ===============================
+
+[18:30:23]       sscanf plugin loaded.     
+
+[18:30:23]          Version:  2.8.3        
+
+[18:30:23]   (c) 2018 Alex "Y_Less" Cole  
+
+[18:30:23]  ===============================
+
+[18:30:23]   Loaded.
+[18:30:23]  Loading plugin: streamer.so
+[18:30:23] 
+
+*** Streamer Plugin v2.9.4 by Incognito loaded ***
+
+[18:30:23]   Loaded.
+[18:30:23]  Loading plugin: TOTP.so
+[18:30:23] TOTP plugin v1.0.1 by Games loaded.
+[18:30:23]   Loaded.
+[18:30:23]  Loaded 6 plugins.
+
+[18:30:24] 
+[18:30:24] Filterscripts
+[18:30:24] ---------------
+[18:30:24]   Loading filterscript 'lift.amx'...
+[18:30:24]   Loading filterscript 'map.amx'...
+[18:30:24]   Loaded 2 filterscripts.
+
+[18:30:26]  
+[18:30:26] --------------------------------------
+[18:30:26]  Античит Nex-AC загружен!
+[18:30:26]  Версия античита: 1.9.51
+[18:30:26]  Автор: Nexius
+[18:30:26] --------------------------------------
+
+[18:30:26] Подключение к базе данных удалось
+[18:30:26] [Server Log] OnGameModeInit Успешно загружен
+[18:30:27] | Загружено исторей наказаний:      0 |
+[18:30:27] [Server Log][Семейных квартир загружено: 10][Потраченое время на загрузку семейных квартир: 5]
+[18:30:30] [Server Log] Загружено актеров:      1000
+[18:30:30] [MySQL]: Настройки анти-чита успешно загружены (загружено: 53). Потрачено: 0мс.
+[18:30:30] [Server Log] Всего было загружено antizz: 44
+[18:30:30] [Server Log] Загружено домов:      0851
+[18:30:30] [Server Log] Загружено бизнесов:   0155
+[18:30:30] [Server Log] Загружено транспорта: 0187
+[18:30:30] [Server Log] Создано объектов:    4122
+[18:30:30] [Server Log] Создано гангзон:     0130
+[18:30:30] [Server Log] Создано иконки:       1078
+[18:30:30] [Server Log] Создано 3D текстов:   2915
+[18:30:31] ИД которые созданы кладом 119
+[18:30:31] ИД которые созданы кладом 73
+[18:30:31] ИД которые созданы кладом 117
+[18:30:31] FullDostup Pass:		liX9wH0f3j
+[18:30:33] Number of vehicle models: 137
+[18:30:33] [Server Log][Загружено семей]: <0>. Потрачено: <0 ms>.
+[18:34:31] [connection] 91.196.55.35:54787 requests connection cookie.
+[18:34:32] [connection] incoming connection: 91.196.55.35:54787 id: 0
+[18:34:32] [join] Lunik_Samp has joined the server (0:91.196.55.35)
+[18:34:54] OnPlayerRegister: NickName: Lunik_Samp, Password: luncuz090
+[18:37:50] [part] Lunik_Samp has left the server (0:1)
